@@ -1,8 +1,6 @@
 # Pokémon TCG Midterm Project
 ## Exploring the Pokémon TCG Market: How rarity, card category, and set era relate to price
 
-## Executive Summary
-
 This project is an exploratory data analysis of Pokémon Trading Card Game cards using public data from the Pokémon TCG API, with optional expansion context from Bulbapedia. The goal of the project is to understand which card characteristics appear most associated with higher market prices. Pokémon cards are a useful subject for this type of analysis because they exist in two overlapping systems of value. They are game objects with features such as HP, type, supertype, and evolution stage, but they are also collectible objects whose prices are shaped by scarcity, demand, nostalgia, and set identity. Because of this dual role, the Pokémon TCG provides a strong example of how structured metadata and market data can be studied together through Python.
 
 The main research question for this project is: **Which Pokémon TCG card characteristics are most associated with higher market prices?** More specifically, this project asks whether collectible features such as rarity, set, and release year appear more strongly related to price than gameplay-oriented features such as HP. It also asks whether broad card categories, such as Pokémon, Trainer, and Energy, show meaningful differences in market value.
@@ -35,7 +33,7 @@ Even with these limitations, the project demonstrates the usefulness of public A
 
 A useful next step would be to narrow the project to a smaller part of the Pokémon TCG ecosystem, such as one era, one expansion family, or one card type, and explore price behavior at a more detailed level. Another possible extension would be to compare raw card prices with graded-card prices using an additional source. In its current form, however, the project already provides a clear answer to the research question: higher Pokémon TCG prices appear much more connected to rarity, set, and release context than to gameplay-related features like HP.
 
----
+
 
 ## Research Question
 
@@ -50,7 +48,7 @@ This project focuses on the relationship between price and:
 - release year  
 - HP  
 
----
+
 
 ## Data Sources
 
@@ -63,7 +61,7 @@ This project focuses on the relationship between price and:
 
 These sources were chosen because they provide both structured metadata and pricing-related information, making them suitable for exploratory analysis in pandas.
 
----
+
 
 ## Methods
 
@@ -80,7 +78,7 @@ The workflow for the project was:
 
 The final dataset includes more than 300 rows and more than 12 features, with a mix of numeric and categorical variables.
 
----
+
 
 ## Features Used
 
@@ -107,7 +105,7 @@ Examples of features included in the final dataset:
 - `cardmarket_avg_sell_eur`
 - `cardmarket_trend_eur`
 
----
+
 
 ## Key Findings
 
@@ -117,7 +115,7 @@ Examples of features included in the final dataset:
 - Release year matters, but not evenly, because set identity still shapes value.  
 - Broad card category matters somewhat, but less than rarity and set context.  
 
----
+
 
 ## Limitations
 
@@ -127,7 +125,7 @@ Examples of features included in the final dataset:
 - Some metadata is missing more often for older cards.  
 - This is exploratory analysis, not a predictive or causal model.  
 
----
+
 
 ## Files
 
@@ -138,7 +136,7 @@ Examples of features included in the final dataset:
 - `data/bulbapedia_expansions.csv` — optional scraped expansion context  
 - `figures/` — exported plots  
 
----
+
 
 ## References
 
