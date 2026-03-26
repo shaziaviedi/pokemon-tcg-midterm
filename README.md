@@ -142,7 +142,7 @@ Examples of features included in the final dataset:
 
 ## References
 
-- Pokémon TCG API documentation  
-- Pokémon TCG API cards endpoint  
-- Pokémon TCG API sets endpoint  
-- Bulbapedia list of English Pokémon TCG expansions  
+- Pokémon TCG API documentation: https://docs.pokemontcg.io/
+- Pokémon TCG API cards endpoint: https://docs.pokemontcg.io/api-reference/cards/search-cards/
+- Pokémon TCG API sets endpoint: https://docs.pokemontcg.io/api-reference/sets/search-sets/
+- Bulbapedia list of English Pokémon TCG expansions: https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions
