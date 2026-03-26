@@ -1,0 +1,1001 @@
+card_id,name,supertype,subtype_primary,subtypes_all,type_primary,types_all,hp,evolves_from,rarity,artist,regulation_mark,national_pokedex_first,converted_retreat_cost,set_id,set_name,set_series,set_release_date,set_total,set_printed_total,tcgplayer_updated_at,price_usd,price_kind,cardmarket_avg_sell_eur,cardmarket_trend_eur,release_year
+base1-1,Alakazam,Pokémon,Stage 2,Stage 2,Psychic,Psychic,80.0,Kadabra,Rare Holo,Ken Sugimori,Unknown,65.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,61.24,holofoil,139.99,197.0,1999
+base1-2,Blastoise,Pokémon,Stage 2,Stage 2,Water,Water,100.0,Wartortle,Rare Holo,Ken Sugimori,Unknown,9.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,183.48,holofoil,99.99,125.11,1999
+base1-3,Chansey,Pokémon,Basic,Basic,Colorless,Colorless,120.0,,Rare Holo,Ken Sugimori,Unknown,113.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,49.17,holofoil,21.63,78.98,1999
+base1-4,Charizard,Pokémon,Stage 2,Stage 2,Fire,Fire,120.0,Charmeleon,Rare Holo,Mitsuhiro Arita,Unknown,6.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,494.23,holofoil,1496.67,1468.78,1999
+base1-5,Clefairy,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Rare Holo,Ken Sugimori,Unknown,35.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,28.43,holofoil,29.16,30.63,1999
+base1-6,Gyarados,Pokémon,Stage 1,Stage 1,Water,Water,100.0,Magikarp,Rare Holo,Mitsuhiro Arita,Unknown,130.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,42.71,holofoil,24.02,24.3,1999
+base1-7,Hitmonchan,Pokémon,Basic,Basic,Fighting,Fighting,70.0,,Rare Holo,Ken Sugimori,Unknown,107.0,2.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,18.53,holofoil,67.97,60.39,1999
+base1-8,Machamp,Pokémon,Stage 2,Stage 2,Fighting,Fighting,100.0,Machoke,Rare Holo,Ken Sugimori,Unknown,68.0,3.0,base1,Base,Base,1999-01-09,102,102,2023/03/27,,,103.72,85.27,1999
+base1-9,Magneton,Pokémon,Stage 1,Stage 1,Lightning,Lightning,60.0,Magnemite,Rare Holo,Keiji Kinebuchi,Unknown,82.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,34.08,holofoil,24.9,22.01,1999
+base1-10,Mewtwo,Pokémon,Basic,Basic,Psychic,Psychic,60.0,,Rare Holo,Ken Sugimori,Unknown,150.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,68.83,holofoil,181.65,103.18,1999
+base1-11,Nidoking,Pokémon,Stage 2,Stage 2,Grass,Grass,90.0,Nidorino,Rare Holo,Ken Sugimori,Unknown,34.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,36.58,holofoil,111.33,99.06,1999
+base1-12,Ninetales,Pokémon,Stage 1,Stage 1,Fire,Fire,80.0,Vulpix,Rare Holo,Ken Sugimori,Unknown,38.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,36.35,holofoil,17.33,11.71,1999
+base1-13,Poliwrath,Pokémon,Stage 2,Stage 2,Water,Water,90.0,Poliwhirl,Rare Holo,Ken Sugimori,Unknown,62.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,28.17,holofoil,21.2,70.81,1999
+base1-14,Raichu,Pokémon,Stage 1,Stage 1,Lightning,Lightning,80.0,Pikachu,Rare Holo,Ken Sugimori,Unknown,26.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,63.29,holofoil,230.0,138.67,1999
+base1-15,Venusaur,Pokémon,Stage 2,Stage 2,Grass,Grass,100.0,Ivysaur,Rare Holo,Mitsuhiro Arita,Unknown,3.0,2.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,143.73,holofoil,724.75,338.48,1999
+base1-16,Zapdos,Pokémon,Basic,Basic,Lightning,Lightning,90.0,,Rare Holo,Ken Sugimori,Unknown,145.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,52.51,holofoil,31.37,64.88,1999
+base1-17,Beedrill,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Kakuna,Rare,Ken Sugimori,Unknown,15.0,,base1,Base,Base,1999-01-09,102,102,2026/03/26,5.12,normal,15.85,25.85,1999
+base1-18,Dragonair,Pokémon,Stage 1,Stage 1,Colorless,Colorless,80.0,Dratini,Rare,Mitsuhiro Arita,Unknown,148.0,2.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,13.28,normal,40.06,101.16,1999
+base1-19,Dugtrio,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Diglett,Rare,Keiji Kinebuchi,Unknown,51.0,2.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,8.39,normal,7.88,9.13,1999
+base1-20,Electabuzz,Pokémon,Basic,Basic,Lightning,Lightning,70.0,,Rare,Ken Sugimori,Unknown,125.0,2.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,13.34,normal,6.65,7.44,1999
+base1-21,Electrode,Pokémon,Stage 1,Stage 1,Lightning,Lightning,80.0,Voltorb,Rare,Keiji Kinebuchi,Unknown,101.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,6.6,normal,22.99,27.43,1999
+base1-22,Pidgeotto,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Pidgey,Rare,Ken Sugimori,Unknown,17.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,9.8,normal,32.66,42.39,1999
+base1-23,Arcanine,Pokémon,Stage 1,Stage 1,Fire,Fire,100.0,Growlithe,Uncommon,Ken Sugimori,Unknown,59.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,3.25,normal,5.08,4.66,1999
+base1-24,Charmeleon,Pokémon,Stage 1,Stage 1,Fire,Fire,80.0,Charmander,Uncommon,Mitsuhiro Arita,Unknown,5.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.61,normal,3.81,5.27,1999
+base1-25,Dewgong,Pokémon,Stage 1,Stage 1,Water,Water,80.0,Seel,Uncommon,Mitsuhiro Arita,Unknown,87.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.56,normal,11.66,12.87,1999
+base1-26,Dratini,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Uncommon,Ken Sugimori,Unknown,147.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.58,normal,12.0,18.19,1999
+base1-27,Farfetch'd,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Uncommon,Ken Sugimori,Unknown,83.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.46,normal,2.29,2.17,1999
+base1-28,Growlithe,Pokémon,Basic,Basic,Fire,Fire,60.0,,Uncommon,Ken Sugimori,Unknown,58.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.28,normal,18.64,10.17,1999
+base1-29,Haunter,Pokémon,Stage 1,Stage 1,Psychic,Psychic,60.0,Gastly,Uncommon,Keiji Kinebuchi,Unknown,93.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.02,normal,18.43,32.14,1999
+base1-30,Ivysaur,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Bulbasaur,Uncommon,Ken Sugimori,Unknown,2.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,3.24,normal,4.99,8.99,1999
+base1-31,Jynx,Pokémon,Basic,Basic,Psychic,Psychic,70.0,,Uncommon,Ken Sugimori,Unknown,124.0,2.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.99,normal,2.59,1.69,1999
+base1-32,Kadabra,Pokémon,Stage 1,Stage 1,Psychic,Psychic,60.0,Abra,Uncommon,Ken Sugimori,Unknown,64.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.78,normal,22.87,24.24,1999
+base1-33,Kakuna,Pokémon,Stage 1,Stage 1,Grass,Grass,80.0,Weedle,Uncommon,Keiji Kinebuchi,Unknown,14.0,2.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.36,normal,6.05,13.08,1999
+base1-34,Machoke,Pokémon,Stage 1,Stage 1,Fighting,Fighting,80.0,Machop,Uncommon,Ken Sugimori,Unknown,67.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.05,normal,1.29,4.02,1999
+base1-35,Magikarp,Pokémon,Basic,Basic,Water,Water,30.0,,Uncommon,Mitsuhiro Arita,Unknown,129.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,3.39,normal,2.79,4.82,1999
+base1-36,Magmar,Pokémon,Basic,Basic,Fire,Fire,50.0,,Uncommon,Ken Sugimori,Unknown,126.0,2.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.37,normal,8.63,26.31,1999
+base1-37,Nidorino,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Nidoran ♂,Uncommon,Mitsuhiro Arita,Unknown,33.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.02,normal,3.1,4.11,1999
+base1-38,Poliwhirl,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Poliwag,Uncommon,Ken Sugimori,Unknown,61.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.27,normal,2.82,2.33,1999
+base1-39,Porygon,Pokémon,Basic,Basic,Colorless,Colorless,30.0,,Uncommon,Tomoaki Imakuni,Unknown,137.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.66,normal,9.96,14.43,1999
+base1-40,Raticate,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Rattata,Uncommon,Ken Sugimori,Unknown,20.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.16,normal,40.64,36.95,1999
+base1-41,Seel,Pokémon,Basic,Basic,Water,Water,60.0,,Uncommon,Ken Sugimori,Unknown,86.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.29,normal,2.69,0.94,1999
+base1-42,Wartortle,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Squirtle,Uncommon,Ken Sugimori,Unknown,8.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,3.85,normal,10.4,6.08,1999
+base1-43,Abra,Pokémon,Basic,Basic,Psychic,Psychic,30.0,,Common,Mitsuhiro Arita,Unknown,63.0,,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.53,normal,11.87,20.68,1999
+base1-44,Bulbasaur,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Mitsuhiro Arita,Unknown,1.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.4,normal,3.84,3.75,1999
+base1-45,Caterpie,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,10.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.22,normal,2.6,1.85,1999
+base1-46,Charmander,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Mitsuhiro Arita,Unknown,4.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.1,normal,12.88,18.26,1999
+base1-47,Diglett,Pokémon,Basic,Basic,Fighting,Fighting,30.0,,Common,Keiji Kinebuchi,Unknown,50.0,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.77,normal,3.1,11.38,1999
+base1-48,Doduo,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Mitsuhiro Arita,Unknown,84.0,,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.46,normal,1.44,1.11,1999
+base1-49,Drowzee,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Ken Sugimori,Unknown,96.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.68,normal,8.24,15.87,1999
+base1-50,Gastly,Pokémon,Basic,Basic,Psychic,Psychic,30.0,,Common,Keiji Kinebuchi,Unknown,92.0,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.84,normal,12.39,15.05,1999
+base1-51,Koffing,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Mitsuhiro Arita,Unknown,109.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.69,normal,0.88,0.93,1999
+base1-52,Machop,Pokémon,Basic,Basic,Fighting,Fighting,50.0,,Common,Mitsuhiro Arita,Unknown,66.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.47,normal,0.77,0.85,1999
+base1-53,Magnemite,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Keiji Kinebuchi,Unknown,81.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.78,normal,2.61,7.46,1999
+base1-54,Metapod,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Caterpie,Common,Ken Sugimori,Unknown,11.0,2.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.9,normal,6.0,5.76,1999
+base1-55,Nidoran ♂,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,32.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.71,normal,1.02,1.56,1999
+base1-56,Onix,Pokémon,Basic,Basic,Fighting,Fighting,90.0,,Common,Ken Sugimori,Unknown,95.0,3.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.92,normal,1.24,0.63,1999
+base1-57,Pidgey,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Common,Ken Sugimori,Unknown,16.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.33,normal,4.13,11.22,1999
+base1-58,Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Mitsuhiro Arita,Unknown,25.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,4.71,normal,20.0,9.85,1999
+base1-59,Poliwag,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Ken Sugimori,Unknown,60.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.76,normal,3.82,20.73,1999
+base1-60,Ponyta,Pokémon,Basic,Basic,Fire,Fire,40.0,,Common,Ken Sugimori,Unknown,77.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.43,normal,11.91,6.12,1999
+base1-61,Rattata,Pokémon,Basic,Basic,Colorless,Colorless,30.0,,Common,Mitsuhiro Arita,Unknown,19.0,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.79,normal,4.08,5.77,1999
+base1-62,Sandshrew,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Ken Sugimori,Unknown,27.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.8,normal,1.61,3.58,1999
+base1-63,Squirtle,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Mitsuhiro Arita,Unknown,7.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,6.34,normal,6.41,9.79,1999
+base1-64,Starmie,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Staryu,Common,Keiji Kinebuchi,Unknown,121.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.75,normal,2.28,2.9,1999
+base1-65,Staryu,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Keiji Kinebuchi,Unknown,120.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.64,normal,0.74,0.99,1999
+base1-66,Tangela,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Mitsuhiro Arita,Unknown,114.0,2.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.8,normal,9.63,5.85,1999
+base1-67,Voltorb,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Keiji Kinebuchi,Unknown,100.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,3.8,normal,3.15,3.99,1999
+base1-68,Vulpix,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Ken Sugimori,Unknown,37.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.73,normal,20.65,14.1,1999
+base1-69,Weedle,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Mitsuhiro Arita,Unknown,13.0,1.0,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.6,normal,1.23,2.4,1999
+base1-70,Clefairy Doll,Trainer,Unknown,,Unknown,,10.0,,Rare,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,6.74,normal,7.33,6.1,1999
+base1-71,Computer Search,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,4.6,normal,13.95,18.57,1999
+base1-72,Devolution Spray,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,5.26,normal,6.18,5.98,1999
+base1-73,Impostor Professor Oak,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,5.47,normal,19.99,32.76,1999
+base1-74,Item Finder,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,8.85,normal,8.34,8.36,1999
+base1-75,Lass,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,3.27,normal,9.34,9.39,1999
+base1-76,Pokémon Breeder,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,7.31,normal,8.33,8.88,1999
+base1-77,Pokémon Trader,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,6.22,normal,23.32,24.06,1999
+base1-78,Scoop Up,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,8.56,normal,16.99,26.98,1999
+base1-79,Super Energy Removal,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,4.74,normal,2.99,2.7,1999
+base1-80,Defender,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.5,normal,5.25,11.49,1999
+base1-81,Energy Retrieval,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.61,normal,0.99,1.76,1999
+base1-82,Full Heal,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.08,normal,5.8,12.13,1999
+base1-83,Maintenance,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,2.63,normal,3.23,2.61,1999
+base1-84,PlusPower,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.77,normal,3.31,7.46,1999
+base1-85,Pokémon Center,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.63,normal,4.31,10.53,1999
+base1-86,Pokémon Flute,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,3.1,normal,3.08,2.99,1999
+base1-87,Pokédex,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.64,normal,0.88,0.7,1999
+base1-88,Professor Oak,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.4,normal,1.18,1.05,1999
+base1-89,Revive,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,1.97,normal,17.45,17.95,1999
+base1-90,Super Potion,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.37,normal,0.5,0.38,1999
+base1-91,Bill,Trainer,Unknown,,Unknown,,,,Common,Ken Sugimori,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.33,normal,2.79,3.63,1999
+base1-92,Energy Removal,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.46,normal,1.82,5.38,1999
+base1-93,Gust of Wind,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.37,normal,1.47,3.17,1999
+base1-94,Potion,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.24,normal,0.26,0.35,1999
+base1-95,Switch,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.36,normal,0.42,0.1,1999
+base1-96,Double Colorless Energy,Energy,Special,Special,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,5.85,normal,12.49,23.45,1999
+base1-97,Fighting Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.36,normal,0.34,0.25,1999
+base1-98,Fire Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.27,normal,1.26,2.35,1999
+base1-99,Grass Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.34,normal,0.25,0.23,1999
+base1-100,Lightning Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.53,normal,3.58,3.06,1999
+base1-101,Psychic Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.55,normal,0.37,0.28,1999
+base1-102,Water Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base1,Base,Base,1999-01-09,102,102,2026/03/26,0.47,normal,0.24,0.35,1999
+base2-1,Clefable,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Clefairy,Rare Holo,Mitsuhiro Arita,Unknown,36.0,2.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,80.48,1stEditionHolofoil,0.0,342.35,1999
+base2-2,Electrode,Pokémon,Stage 1,Stage 1,Lightning,Lightning,90.0,Voltorb,Rare Holo,Mitsuhiro Arita,Unknown,101.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,52.15,1stEditionHolofoil,28.63,25.98,1999
+base2-3,Flareon,Pokémon,Stage 1,Stage 1,Fire,Fire,70.0,Eevee,Rare Holo,Kagemaru Himeno,Unknown,136.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,163.71,1stEditionHolofoil,55.98,30.99,1999
+base2-4,Jolteon,Pokémon,Stage 1,Stage 1,Lightning,Lightning,70.0,Eevee,Rare Holo,Kagemaru Himeno,Unknown,135.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,168.81,1stEditionHolofoil,54.78,38.86,1999
+base2-5,Kangaskhan,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Rare Holo,Mitsuhiro Arita,Unknown,115.0,3.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,74.55,1stEditionHolofoil,8.11,6.09,1999
+base2-6,Mr. Mime,Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Rare Holo,Ken Sugimori,Unknown,122.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,85.31,1stEditionHolofoil,26.18,22.87,1999
+base2-7,Nidoqueen,Pokémon,Stage 2,Stage 2,Grass,Grass,90.0,Nidorina,Rare Holo,Ken Sugimori,Unknown,31.0,3.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,94.23,1stEditionHolofoil,30.32,37.56,1999
+base2-8,Pidgeot,Pokémon,Stage 2,Stage 2,Colorless,Colorless,80.0,Pidgeotto,Rare Holo,Kagemaru Himeno,Unknown,18.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,128.77,1stEditionHolofoil,35.8,30.67,1999
+base2-9,Pinsir,Pokémon,Basic,Basic,Grass,Grass,60.0,,Rare Holo,Kagemaru Himeno,Unknown,127.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,85.53,1stEditionHolofoil,23.02,17.6,1999
+base2-10,Scyther,Pokémon,Basic,Basic,Grass,Grass,70.0,,Rare Holo,Ken Sugimori,Unknown,123.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,115.12,1stEditionHolofoil,28.03,62.66,1999
+base2-11,Snorlax,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Rare Holo,Ken Sugimori,Unknown,143.0,4.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,290.51,1stEditionHolofoil,188.67,58.58,1999
+base2-12,Vaporeon,Pokémon,Stage 1,Stage 1,Water,Water,80.0,Eevee,Rare Holo,Kagemaru Himeno,Unknown,134.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,239.19,1stEditionHolofoil,11.88,9.92,1999
+base2-13,Venomoth,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Venonat,Rare Holo,Ken Sugimori,Unknown,49.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,77.32,1stEditionHolofoil,23.37,22.15,1999
+base2-14,Victreebel,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Weepinbell,Rare Holo,Ken Sugimori,Unknown,71.0,2.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,93.47,1stEditionHolofoil,22.23,39.29,1999
+base2-15,Vileplume,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Gloom,Rare Holo,Keiji Kinebuchi,Unknown,45.0,2.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,85.0,1stEditionHolofoil,23.56,18.61,1999
+base2-16,Wigglytuff,Pokémon,Stage 1,Stage 1,Colorless,Colorless,80.0,Jigglypuff,Rare Holo,Mitsuhiro Arita,Unknown,40.0,2.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,74.67,1stEditionHolofoil,27.95,23.53,1999
+base2-17,Clefable,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Clefairy,Rare,Mitsuhiro Arita,Unknown,36.0,2.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,4.94,8.02,1999
+base2-18,Electrode,Pokémon,Stage 1,Stage 1,Lightning,Lightning,90.0,Voltorb,Rare,Mitsuhiro Arita,Unknown,101.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,5.23,8.47,1999
+base2-19,Flareon,Pokémon,Stage 1,Stage 1,Fire,Fire,70.0,Eevee,Rare,Kagemaru Himeno,Unknown,136.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,10.66,10.26,1999
+base2-20,Jolteon,Pokémon,Stage 1,Stage 1,Lightning,Lightning,70.0,Eevee,Rare,Kagemaru Himeno,Unknown,135.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,9.38,7.94,1999
+base2-21,Kangaskhan,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Rare,Mitsuhiro Arita,Unknown,115.0,3.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,5.39,4.63,1999
+base2-22,Mr. Mime,Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Rare,Ken Sugimori,Unknown,122.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,7.95,8.75,1999
+base2-23,Nidoqueen,Pokémon,Stage 2,Stage 2,Grass,Grass,90.0,Nidorina,Rare,Ken Sugimori,Unknown,31.0,3.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,7.25,7.01,1999
+base2-24,Pidgeot,Pokémon,Stage 2,Stage 2,Colorless,Colorless,80.0,Pidgeotto,Rare,Kagemaru Himeno,Unknown,18.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,9.42,6.56,1999
+base2-25,Pinsir,Pokémon,Basic,Basic,Grass,Grass,60.0,,Rare,Kagemaru Himeno,Unknown,127.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,5.1,7.83,1999
+base2-26,Scyther,Pokémon,Basic,Basic,Grass,Grass,70.0,,Rare,Ken Sugimori,Unknown,123.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,12.65,5.4,1999
+base2-27,Snorlax,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Rare,Ken Sugimori,Unknown,143.0,4.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,9.21,8.76,1999
+base2-28,Vaporeon,Pokémon,Stage 1,Stage 1,Water,Water,80.0,Eevee,Rare,Kagemaru Himeno,Unknown,134.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,15.17,16.28,1999
+base2-29,Venomoth,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Venonat,Rare,Ken Sugimori,Unknown,49.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,5.59,6.66,1999
+base2-30,Victreebel,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Weepinbell,Rare,Ken Sugimori,Unknown,71.0,2.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,6.97,19.24,1999
+base2-31,Vileplume,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Gloom,Rare,Keiji Kinebuchi,Unknown,45.0,2.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,5.04,6.97,1999
+base2-32,Wigglytuff,Pokémon,Stage 1,Stage 1,Colorless,Colorless,80.0,Jigglypuff,Rare,Mitsuhiro Arita,Unknown,40.0,2.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,6.87,5.37,1999
+base2-33,Butterfree,Pokémon,Stage 2,Stage 2,Grass,Grass,70.0,Metapod,Uncommon,Kagemaru Himeno,Unknown,12.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.64,2.01,1999
+base2-34,Dodrio,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Doduo,Uncommon,Mitsuhiro Arita,Unknown,85.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.43,1.25,1999
+base2-35,Exeggutor,Pokémon,Stage 1,Stage 1,Grass,Grass,80.0,Exeggcute,Uncommon,Kagemaru Himeno,Unknown,103.0,3.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.12,0.93,1999
+base2-36,Fearow,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Spearow,Uncommon,Mitsuhiro Arita,Unknown,22.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.34,0.94,1999
+base2-37,Gloom,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Oddish,Uncommon,Keiji Kinebuchi,Unknown,44.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.2,0.49,1999
+base2-38,Lickitung,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Uncommon,Mitsuhiro Arita,Unknown,108.0,3.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.35,1.05,1999
+base2-39,Marowak,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Cubone,Uncommon,Mitsuhiro Arita,Unknown,105.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,3.24,0.02,1999
+base2-40,Nidorina,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Nidoran ♀,Uncommon,Ken Sugimori,Unknown,30.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.05,1.62,1999
+base2-41,Parasect,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Paras,Uncommon,Ken Sugimori,Unknown,47.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.3,1.2,1999
+base2-42,Persian,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Meowth,Uncommon,Kagemaru Himeno,Unknown,53.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.38,1.86,1999
+base2-43,Primeape,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Mankey,Uncommon,Kagemaru Himeno,Unknown,57.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.1,0.37,1999
+base2-44,Rapidash,Pokémon,Stage 1,Stage 1,Fire,Fire,70.0,Ponyta,Uncommon,Mitsuhiro Arita,Unknown,78.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.52,1.45,1999
+base2-45,Rhydon,Pokémon,Stage 1,Stage 1,Fighting,Fighting,100.0,Rhyhorn,Uncommon,Kagemaru Himeno,Unknown,112.0,3.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.92,1.04,1999
+base2-46,Seaking,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Goldeen,Uncommon,Kagemaru Himeno,Unknown,119.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.21,1.17,1999
+base2-47,Tauros,Pokémon,Basic,Basic,Colorless,Colorless,60.0,,Uncommon,Kagemaru Himeno,Unknown,128.0,2.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.08,1.18,1999
+base2-48,Weepinbell,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Bellsprout,Uncommon,Kagemaru Himeno,Unknown,70.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.83,0.62,1999
+base2-49,Bellsprout,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Kagemaru Himeno,Unknown,69.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.62,0.27,1999
+base2-50,Cubone,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Mitsuhiro Arita,Unknown,104.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.12,1.29,1999
+base2-51,Eevee,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Kagemaru Himeno,Unknown,133.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.85,0.81,1999
+base2-52,Exeggcute,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Mitsuhiro Arita,Unknown,102.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.42,0.36,1999
+base2-53,Goldeen,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Kagemaru Himeno,Unknown,118.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.14,0.04,1999
+base2-54,Jigglypuff,Pokémon,Basic,Basic,Colorless,Colorless,60.0,,Common,Kagemaru Himeno,Unknown,39.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.69,1.18,1999
+base2-55,Mankey,Pokémon,Basic,Basic,Fighting,Fighting,30.0,,Common,Kagemaru Himeno,Unknown,56.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.95,0.53,1999
+base2-56,Meowth,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Mitsuhiro Arita,Unknown,52.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,67.29,39.81,1999
+base2-57,Nidoran ♀,Pokémon,Basic,Basic,Grass,Grass,60.0,,Common,Ken Sugimori,Unknown,29.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.36,0.31,1999
+base2-58,Oddish,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Keiji Kinebuchi,Unknown,43.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.59,0.22,1999
+base2-59,Paras,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,46.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.52,0.53,1999
+base2-60,Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,50.0,,Common,Ken Sugimori,Unknown,25.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,2.63,1.62,1999
+base2-61,Rhyhorn,Pokémon,Basic,Basic,Fighting,Fighting,70.0,,Common,Mitsuhiro Arita,Unknown,111.0,3.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.63,0.7,1999
+base2-62,Spearow,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Mitsuhiro Arita,Unknown,21.0,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.45,0.38,1999
+base2-63,Venonat,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Mitsuhiro Arita,Unknown,48.0,1.0,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,0.47,0.56,1999
+base2-64,Poké Ball,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base2,Jungle,Base,1999-06-16,64,64,2026/03/26,,,1.21,0.83,1999
+basep-1,Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,60.0,,Promo,Keiji Kinebuchi,Unknown,25.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2023/03/27,,,17.78,21.22,1999
+basep-2,Electabuzz,Pokémon,Basic,Basic,Lightning,Lightning,60.0,,Promo,Ken Sugimori,Unknown,125.0,2.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,9.48,normal,4.05,2.14,1999
+basep-3,Mewtwo,Pokémon,Basic,Basic,Psychic,Psychic,70.0,,Promo,Ken Sugimori,Unknown,150.0,2.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,33.66,normal,22.58,22.71,1999
+basep-4,Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,50.0,,Promo,Ken Sugimori,Unknown,25.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,32.0,normal,16.14,19.39,1999
+basep-5,Dragonite,Pokémon,Stage 2,Stage 2,Colorless,Colorless,90.0,Dragonair,Promo,Toshinao Aoki,Unknown,149.0,2.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,45.05,normal,23.5,28.13,1999
+basep-6,Arcanine,Pokémon,Stage 1,Stage 1,Fire,Fire,70.0,Growlithe,Promo,Ken Sugimori,Unknown,59.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,26.61,normal,15.73,14.46,1999
+basep-7,Jigglypuff,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Promo,Keiji Kinebuchi,Unknown,39.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,30.71,normal,8.2,6.83,1999
+basep-8,Mew,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Promo,Ken Sugimori,Unknown,151.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,8.61,normal,5.68,6.72,1999
+basep-9,Mew,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Promo,Ken Sugimori,Unknown,151.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,92.85,holofoil,81.26,80.57,1999
+basep-10,Meowth,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Promo,Kagemaru Himeno,Unknown,52.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,51.74,holofoil,9.29,8.73,1999
+basep-11,Eevee,Pokémon,Basic,Basic,Colorless,Colorless,30.0,,Promo,Kagemaru Himeno,Unknown,133.0,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,46.65,holofoil,117.5,79.2,1999
+basep-12,Mewtwo,Pokémon,Basic,Basic,Psychic,Psychic,60.0,,Promo,Christopher Rush,Unknown,150.0,2.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,98.54,normal,191.43,191.52,1999
+basep-13,Venusaur,Pokémon,Stage 2,Stage 2,Grass,Grass,100.0,Ivysaur,Promo,Ken Sugimori,Unknown,3.0,2.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,205.65,holofoil,117.82,120.03,1999
+basep-14,Mewtwo,Pokémon,Basic,Basic,Psychic,Psychic,70.0,,Promo,Benimaru Itoh,Unknown,150.0,2.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,22.13,normal,5.61,5.04,1999
+basep-15,Cool Porygon,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Promo,Hiromichi Sugiyama,Unknown,137.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,75.56,holofoil,56.68,60.78,1999
+basep-16,Computer Error,Trainer,Rocket's Secret Machine,Rocket's Secret Machine,Unknown,,,,Promo,Sumiyoshi Kizuki,Unknown,,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,4.85,normal,3.7,4.14,1999
+basep-17,Dark Persian,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Meowth,Promo,Ken Sugimori,Unknown,53.0,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,78.3,holofoil,27.37,35.77,1999
+basep-18,Team Rocket's Meowth,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Promo,Kunihiko Yuyama,Unknown,52.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,20.58,normal,24.21,24.34,1999
+basep-19,Sabrina's Abra,Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Promo,Atsuko Nishida,Unknown,63.0,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,49.99,normal,22.41,54.75,1999
+basep-20,Psyduck,Pokémon,Basic,Basic,Water,Water,50.0,,Promo,Kagemaru Himeno,Unknown,54.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,58.86,normal,40.68,43.56,1999
+basep-21,Moltres,Pokémon,Basic,Basic,Fire,Fire,70.0,,Promo,Toshinao Aoki,Unknown,146.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,14.56,normal,9.65,6.55,1999
+basep-22,Articuno,Pokémon,Basic,Basic,Water,Water,70.0,,Promo,Toshinao Aoki,Unknown,144.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,14.13,normal,9.62,7.95,1999
+basep-23,Zapdos,Pokémon,Basic,Basic,Lightning,Lightning,70.0,,Promo,Toshinao Aoki,Unknown,145.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,13.3,normal,11.28,13.23,1999
+basep-24,_____'s Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,50.0,,Promo,Kagemaru Himeno,Unknown,25.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,230.24,holofoil,248.74,280.06,1999
+basep-25,Flying Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Promo,Toshinao Aoki,Unknown,25.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,61.01,normal,56.81,62.6,1999
+basep-26,Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Promo,Gakuji Nomoto,Unknown,25.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,63.08,normal,63.26,49.27,1999
+basep-27,Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,30.0,,Promo,Atsuko Nishida,Unknown,25.0,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,17.41,normal,21.87,34.8,1999
+basep-28,Surfing Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,50.0,,Promo,Toshinao Aoki,Unknown,25.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,36.35,normal,58.81,70.13,1999
+basep-29,Marill,Pokémon,Basic,Basic,Water,Water,50.0,,Promo,Ken Sugimori,Unknown,183.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,5.31,normal,16.51,17.4,1999
+basep-30,Togepi,Pokémon,Basic,Basic,Colorless,Colorless,30.0,,Promo,Ken Sugimori,Unknown,175.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,21.68,normal,11.02,13.46,1999
+basep-31,Cleffa,Pokémon,Baby,Baby,Colorless,Colorless,30.0,,Promo,Ken Sugimori,Unknown,173.0,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,9.21,normal,11.85,10.22,1999
+basep-32,Smeargle,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Promo,Tomokazu Komiya,Unknown,235.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2023/03/27,,,12.77,12.35,1999
+basep-33,Scizor,Pokémon,Stage 1,Stage 1,Metal,Metal,70.0,Scyther,Promo,Hironobu Yoshida,Unknown,212.0,2.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,16.12,normal,11.29,10.53,1999
+basep-34,Entei,Pokémon,Basic,Basic,Fire,Fire,80.0,,Promo,Ken Sugimori,Unknown,244.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,25.59,reverseHolofoil,28.86,16.7,1999
+basep-35,Pichu,Pokémon,Baby,Baby,Lightning,Lightning,30.0,,Promo,Ken Sugimori,Unknown,172.0,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,43.67,reverseHolofoil,48.7,69.53,1999
+basep-36,Igglybuff,Pokémon,Baby,Baby,Colorless,Colorless,30.0,,Promo,Kagemaru Himeno,Unknown,174.0,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,11.28,normal,11.04,17.3,1999
+basep-37,Hitmontop,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Promo,Atsuko Nishida,Unknown,237.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,9.22,normal,8.08,6.69,1999
+basep-38,Unown [J],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Promo,Hideki Kazama,Unknown,201.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,19.64,normal,5.23,4.47,1999
+basep-39,Misdreavus,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Promo,Shin-ichi Yoshida,Unknown,200.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,9.36,normal,6.27,5.64,1999
+basep-40,Pokémon Center,Trainer,Unknown,,Unknown,,,,Promo,"""Big Mama"" Tagawa",Unknown,,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,1062.5,normal,810.0,681.05,1999
+basep-41,Lucky Stadium,Trainer,Stadium,Stadium,Unknown,,,,Promo,"""Big Mama"" Tagawa",Unknown,,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,1050.33,normal,1140.0,741.84,1999
+basep-42,Pokémon Tower,Trainer,Stadium,Stadium,Unknown,,,,Promo,Keiji Kinebuchi,Unknown,,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,10.92,normal,9.8,10.24,1999
+basep-43,Machamp,Pokémon,Stage 2,Stage 2,Fighting,Fighting,90.0,Machoke,Promo,Tomokazu Komiya,Unknown,68.0,3.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,39.49,normal,28.51,33.71,1999
+basep-44,Magmar,Pokémon,Basic,Basic,Fire,Fire,60.0,,Promo,Atsuko Nishida,Unknown,126.0,2.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,21.04,normal,9.38,9.82,1999
+basep-45,Scyther,Pokémon,Basic,Basic,Grass,Grass,60.0,,Promo,Hironobu Yoshida,Unknown,123.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,34.65,normal,36.49,37.38,1999
+basep-46,Electabuzz,Pokémon,Basic,Basic,Lightning,Lightning,60.0,,Promo,Miki Tanaka,Unknown,125.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,27.96,normal,31.58,35.98,1999
+basep-47,Mew,Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Promo,Ken Sugimori,Unknown,151.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,122.58,normal,68.11,66.91,1999
+basep-48,Articuno,Pokémon,Basic,Basic,Water,Water,80.0,,Promo,Atsuko Nishida,Unknown,144.0,2.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,67.6,normal,37.4,43.1,1999
+basep-49,Snorlax,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Promo,Craig Turvey,Unknown,143.0,4.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,213.2,normal,162.76,159.38,1999
+basep-50,Celebi,Pokémon,Basic,Basic,Grass,Grass,50.0,,Promo,Hajime Kusajima,Unknown,251.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,39.15,normal,85.27,82.41,1999
+basep-51,Rapidash,Pokémon,Stage 1,Stage 1,Fire,Fire,60.0,Ponyta,Promo,Mitsuhiro Arita,Unknown,78.0,,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,29.09,normal,56.16,56.32,1999
+basep-52,Ho-oh,Pokémon,Basic,Basic,Fire,Fire,80.0,,Promo,Mitsuhiro Arita,Unknown,250.0,2.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,35.82,normal,110.5,97.0,1999
+basep-53,Suicune,Pokémon,Basic,Basic,Water,Water,70.0,,Promo,Atsuko Nishida,Unknown,245.0,1.0,basep,Wizards Black Star Promos,Base,1999-07-01,53,53,2026/03/26,42.06,normal,63.78,65.74,1999
+base3-1,Aerodactyl,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Mysterious Fossil,Rare Holo,Kagemaru Himeno,Unknown,142.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,72.6,1stEditionHolofoil,44.81,178.52,1999
+base3-2,Articuno,Pokémon,Basic,Basic,Water,Water,70.0,,Rare Holo,Mitsuhiro Arita,Unknown,144.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,187.73,1stEditionHolofoil,54.67,70.21,1999
+base3-3,Ditto,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Rare Holo,Keiji Kinebuchi,Unknown,132.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,107.49,1stEditionHolofoil,38.85,38.91,1999
+base3-4,Dragonite,Pokémon,Stage 2,Stage 2,Colorless,Colorless,100.0,Dragonair,Rare Holo,Kagemaru Himeno,Unknown,149.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,354.99,1stEditionHolofoil,100.26,83.21,1999
+base3-5,Gengar,Pokémon,Stage 2,Stage 2,Psychic,Psychic,80.0,Haunter,Rare Holo,Keiji Kinebuchi,Unknown,94.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,355.09,1stEditionHolofoil,126.65,76.34,1999
+base3-6,Haunter,Pokémon,Stage 1,Stage 1,Psychic,Psychic,50.0,Gastly,Rare Holo,Ken Sugimori,Unknown,93.0,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,97.63,1stEditionHolofoil,31.41,39.77,1999
+base3-7,Hitmonlee,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Rare Holo,Ken Sugimori,Unknown,106.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,72.14,1stEditionHolofoil,41.79,29.61,1999
+base3-8,Hypno,Pokémon,Stage 1,Stage 1,Psychic,Psychic,90.0,Drowzee,Rare Holo,Ken Sugimori,Unknown,97.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,58.91,1stEditionHolofoil,32.55,26.63,1999
+base3-9,Kabutops,Pokémon,Stage 2,Stage 2,Fighting,Fighting,60.0,Kabuto,Rare Holo,Ken Sugimori,Unknown,141.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,81.21,1stEditionHolofoil,38.37,31.73,1999
+base3-10,Lapras,Pokémon,Basic,Basic,Water,Water,80.0,,Rare Holo,Ken Sugimori,Unknown,131.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,106.73,1stEditionHolofoil,17.16,12.93,1999
+base3-11,Magneton,Pokémon,Stage 1,Stage 1,Lightning,Lightning,80.0,Magnemite,Rare Holo,Ken Sugimori,Unknown,82.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,42.33,1stEditionHolofoil,16.76,26.75,1999
+base3-12,Moltres,Pokémon,Basic,Basic,Fire,Fire,70.0,,Rare Holo,Mitsuhiro Arita,Unknown,146.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,158.03,1stEditionHolofoil,54.84,70.05,1999
+base3-13,Muk,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Grimer,Rare Holo,Mitsuhiro Arita,Unknown,89.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,40.39,1stEditionHolofoil,9.58,8.74,1999
+base3-14,Raichu,Pokémon,Stage 1,Stage 1,Lightning,Lightning,90.0,Pikachu,Rare Holo,Mitsuhiro Arita,Unknown,26.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,110.73,1stEditionHolofoil,36.57,29.67,1999
+base3-15,Zapdos,Pokémon,Basic,Basic,Lightning,Lightning,80.0,,Rare Holo,Mitsuhiro Arita,Unknown,145.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,121.74,1stEditionHolofoil,32.54,36.15,1999
+base3-16,Aerodactyl,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Mysterious Fossil,Rare,Kagemaru Himeno,Unknown,142.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,7.99,8.18,1999
+base3-17,Articuno,Pokémon,Basic,Basic,Water,Water,70.0,,Rare,Mitsuhiro Arita,Unknown,144.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,12.18,12.89,1999
+base3-18,Ditto,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Rare,Keiji Kinebuchi,Unknown,132.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,9.1,8.43,1999
+base3-19,Dragonite,Pokémon,Stage 2,Stage 2,Colorless,Colorless,100.0,Dragonair,Rare,Kagemaru Himeno,Unknown,149.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,17.75,16.53,1999
+base3-20,Gengar,Pokémon,Stage 2,Stage 2,Psychic,Psychic,80.0,Haunter,Rare,Keiji Kinebuchi,Unknown,94.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,26.72,22.58,1999
+base3-21,Haunter,Pokémon,Stage 1,Stage 1,Psychic,Psychic,50.0,Gastly,Rare,Ken Sugimori,Unknown,93.0,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,8.13,7.52,1999
+base3-22,Hitmonlee,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Rare,Ken Sugimori,Unknown,106.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,8.11,6.14,1999
+base3-23,Hypno,Pokémon,Stage 1,Stage 1,Psychic,Psychic,90.0,Drowzee,Rare,Ken Sugimori,Unknown,97.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,8.83,7.02,1999
+base3-24,Kabutops,Pokémon,Stage 2,Stage 2,Fighting,Fighting,60.0,Kabuto,Rare,Ken Sugimori,Unknown,141.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,13.95,4.8,1999
+base3-25,Lapras,Pokémon,Basic,Basic,Water,Water,80.0,,Rare,Ken Sugimori,Unknown,131.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,9.56,10.51,1999
+base3-26,Magneton,Pokémon,Stage 1,Stage 1,Lightning,Lightning,80.0,Magnemite,Rare,Ken Sugimori,Unknown,82.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,6.85,5.21,1999
+base3-27,Moltres,Pokémon,Basic,Basic,Fire,Fire,70.0,,Rare,Mitsuhiro Arita,Unknown,146.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,11.76,10.47,1999
+base3-28,Muk,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Grimer,Rare,Mitsuhiro Arita,Unknown,89.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,6.42,8.83,1999
+base3-29,Raichu,Pokémon,Stage 1,Stage 1,Lightning,Lightning,90.0,Pikachu,Rare,Mitsuhiro Arita,Unknown,26.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,9.7,6.54,1999
+base3-30,Zapdos,Pokémon,Basic,Basic,Lightning,Lightning,80.0,,Rare,Mitsuhiro Arita,Unknown,145.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,11.68,9.8,1999
+base3-31,Arbok,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Ekans,Uncommon,Ken Sugimori,Unknown,24.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.82,2.75,1999
+base3-32,Cloyster,Pokémon,Stage 1,Stage 1,Water,Water,50.0,Shellder,Uncommon,Kagemaru Himeno,Unknown,91.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.7,1.51,1999
+base3-33,Gastly,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Uncommon,Mitsuhiro Arita,Unknown,92.0,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.65,5.06,1999
+base3-34,Golbat,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Zubat,Uncommon,Kagemaru Himeno,Unknown,42.0,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.23,1.5,1999
+base3-35,Golduck,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Psyduck,Uncommon,Kagemaru Himeno,Unknown,55.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,3.32,3.57,1999
+base3-36,Golem,Pokémon,Stage 2,Stage 2,Fighting,Fighting,80.0,Graveler,Uncommon,Kagemaru Himeno,Unknown,76.0,4.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,3.06,2.89,1999
+base3-37,Graveler,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Geodude,Uncommon,Kagemaru Himeno,Unknown,75.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.06,0.98,1999
+base3-38,Kingler,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Krabby,Uncommon,Kagemaru Himeno,Unknown,99.0,3.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.2,1.05,1999
+base3-39,Magmar,Pokémon,Basic,Basic,Fire,Fire,70.0,,Uncommon,Mitsuhiro Arita,Unknown,126.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,2.95,2.87,1999
+base3-40,Omastar,Pokémon,Stage 2,Stage 2,Water,Water,70.0,Omanyte,Uncommon,Ken Sugimori,Unknown,139.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,2.93,2.33,1999
+base3-41,Sandslash,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Sandshrew,Uncommon,Ken Sugimori,Unknown,28.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,2.02,1.56,1999
+base3-42,Seadra,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Horsea,Uncommon,Ken Sugimori,Unknown,117.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.78,2.74,1999
+base3-43,Slowbro,Pokémon,Stage 1,Stage 1,Psychic,Psychic,60.0,Slowpoke,Uncommon,Kagemaru Himeno,Unknown,80.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,2.21,2.25,1999
+base3-44,Tentacruel,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Tentacool,Uncommon,Kagemaru Himeno,Unknown,73.0,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.83,2.08,1999
+base3-45,Weezing,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Koffing,Uncommon,Mitsuhiro Arita,Unknown,110.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.68,1.88,1999
+base3-46,Ekans,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Kagemaru Himeno,Unknown,23.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.56,0.27,1999
+base3-47,Geodude,Pokémon,Basic,Basic,Fighting,Fighting,50.0,,Common,Kagemaru Himeno,Unknown,74.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.56,0.82,1999
+base3-48,Grimer,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Mitsuhiro Arita,Unknown,88.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.55,0.67,1999
+base3-49,Horsea,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Mitsuhiro Arita,Unknown,116.0,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.65,0.39,1999
+base3-50,Kabuto,Pokémon,Stage 1,Stage 1,Fighting,Fighting,30.0,Mysterious Fossil,Common,Ken Sugimori,Unknown,140.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.97,1.9,1999
+base3-51,Krabby,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Mitsuhiro Arita,Unknown,98.0,2.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.9,0.63,1999
+base3-52,Omanyte,Pokémon,Stage 1,Stage 1,Water,Water,40.0,Mysterious Fossil,Common,Kagemaru Himeno,Unknown,138.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.59,0.73,1999
+base3-53,Psyduck,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Kagemaru Himeno,Unknown,54.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.28,1.15,1999
+base3-54,Shellder,Pokémon,Basic,Basic,Water,Water,30.0,,Common,Mitsuhiro Arita,Unknown,90.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.64,0.32,1999
+base3-55,Slowpoke,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Miki Tanaka,Unknown,79.0,1.0,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.77,0.76,1999
+base3-56,Tentacool,Pokémon,Basic,Basic,Water,Water,30.0,,Common,Kagemaru Himeno,Unknown,72.0,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.77,0.55,1999
+base3-57,Zubat,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Kagemaru Himeno,Unknown,41.0,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.5,0.5,1999
+base3-58,Mr. Fuji,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,1.29,1.13,1999
+base3-59,Energy Search,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.53,0.54,1999
+base3-60,Gambler,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.53,0.43,1999
+base3-61,Recycle,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.29,0.27,1999
+base3-62,Mysterious Fossil,Trainer,Unknown,,Unknown,,10.0,,Common,Keiji Kinebuchi,Unknown,,,base3,Fossil,Base,1999-10-10,62,62,2026/03/26,,,0.37,0.33,1999
+base4-1,Alakazam,Pokémon,Stage 2,Stage 2,Psychic,Psychic,80.0,Kadabra,Rare Holo,Ken Sugimori,Unknown,65.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,53.66,holofoil,33.86,33.78,2000
+base4-2,Blastoise,Pokémon,Stage 2,Stage 2,Water,Water,100.0,Wartortle,Rare Holo,Ken Sugimori,Unknown,9.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,105.7,holofoil,75.2,76.83,2000
+base4-3,Chansey,Pokémon,Basic,Basic,Colorless,Colorless,120.0,,Rare Holo,Ken Sugimori,Unknown,113.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,17.03,holofoil,13.78,10.74,2000
+base4-4,Charizard,Pokémon,Stage 2,Stage 2,Fire,Fire,120.0,Charmeleon,Rare Holo,Mitsuhiro Arita,Unknown,6.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,373.13,holofoil,299.15,320.56,2000
+base4-5,Clefable,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Clefairy,Rare Holo,Mitsuhiro Arita,Unknown,36.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,17.26,holofoil,16.21,19.53,2000
+base4-6,Clefairy,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Rare Holo,Ken Sugimori,Unknown,35.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,14.63,holofoil,9.64,11.42,2000
+base4-7,Gyarados,Pokémon,Stage 1,Stage 1,Water,Water,100.0,Magikarp,Rare Holo,Mitsuhiro Arita,Unknown,130.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,32.37,holofoil,30.32,40.7,2000
+base4-8,Hitmonchan,Pokémon,Basic,Basic,Fighting,Fighting,70.0,,Rare Holo,Ken Sugimori,Unknown,107.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,20.4,holofoil,14.28,16.43,2000
+base4-9,Magneton,Pokémon,Stage 1,Stage 1,Lightning,Lightning,60.0,Magnemite,Rare Holo,Keiji Kinebuchi,Unknown,82.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,15.82,holofoil,13.78,24.84,2000
+base4-10,Mewtwo,Pokémon,Basic,Basic,Psychic,Psychic,60.0,,Rare Holo,Ken Sugimori,Unknown,150.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,47.49,holofoil,34.42,27.49,2000
+base4-11,Nidoking,Pokémon,Stage 2,Stage 2,Grass,Grass,90.0,Nidorino,Rare Holo,Ken Sugimori,Unknown,34.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,24.11,holofoil,20.68,19.05,2000
+base4-12,Nidoqueen,Pokémon,Stage 2,Stage 2,Grass,Grass,90.0,Nidorina,Rare Holo,Ken Sugimori,Unknown,31.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,25.23,holofoil,15.73,27.06,2000
+base4-13,Ninetales,Pokémon,Stage 1,Stage 1,Fire,Fire,80.0,Vulpix,Rare Holo,Ken Sugimori,Unknown,38.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,23.23,holofoil,26.03,34.01,2000
+base4-14,Pidgeot,Pokémon,Stage 2,Stage 2,Colorless,Colorless,80.0,Pidgeotto,Rare Holo,Kagemaru Himeno,Unknown,18.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,28.18,holofoil,16.09,22.02,2000
+base4-15,Poliwrath,Pokémon,Stage 2,Stage 2,Water,Water,90.0,Poliwhirl,Rare Holo,Ken Sugimori,Unknown,62.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,14.02,holofoil,10.27,9.16,2000
+base4-16,Raichu,Pokémon,Stage 1,Stage 1,Lightning,Lightning,80.0,Pikachu,Rare Holo,Ken Sugimori,Unknown,26.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,33.56,holofoil,32.29,28.49,2000
+base4-17,Scyther,Pokémon,Basic,Basic,Grass,Grass,70.0,,Rare Holo,Ken Sugimori,Unknown,123.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,27.18,holofoil,16.22,14.28,2000
+base4-18,Venusaur,Pokémon,Stage 2,Stage 2,Grass,Grass,100.0,Ivysaur,Rare Holo,Mitsuhiro Arita,Unknown,3.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,76.77,holofoil,60.71,56.12,2000
+base4-19,Wigglytuff,Pokémon,Stage 1,Stage 1,Colorless,Colorless,80.0,Jigglypuff,Rare Holo,Mitsuhiro Arita,Unknown,40.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,13.74,holofoil,8.7,10.35,2000
+base4-20,Zapdos,Pokémon,Basic,Basic,Lightning,Lightning,90.0,,Rare Holo,Ken Sugimori,Unknown,145.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,28.58,holofoil,19.99,19.94,2000
+base4-21,Beedrill,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Kakuna,Rare,Ken Sugimori,Unknown,15.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,2.58,normal,1.98,1.76,2000
+base4-22,Dragonair,Pokémon,Stage 1,Stage 1,Colorless,Colorless,80.0,Dratini,Rare,Mitsuhiro Arita,Unknown,148.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,8.62,normal,6.06,6.79,2000
+base4-23,Dugtrio,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Diglett,Rare,Keiji Kinebuchi,Unknown,51.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,3.7,normal,3.67,3.77,2000
+base4-24,Electabuzz,Pokémon,Basic,Basic,Lightning,Lightning,70.0,,Rare,Ken Sugimori,Unknown,125.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,3.12,normal,3.86,3.57,2000
+base4-25,Electrode,Pokémon,Stage 1,Stage 1,Lightning,Lightning,80.0,Voltorb,Rare,Keiji Kinebuchi,Unknown,101.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,3.81,normal,3.14,3.84,2000
+base4-26,Kangaskhan,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Rare,Mitsuhiro Arita,Unknown,115.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,4.03,normal,4.09,3.4,2000
+base4-27,Mr. Mime,Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Rare,Ken Sugimori,Unknown,122.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,5.69,normal,3.08,3.68,2000
+base4-28,Pidgeotto,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Pidgey,Rare,Ken Sugimori,Unknown,17.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,4.63,normal,4.34,3.32,2000
+base4-29,Pinsir,Pokémon,Basic,Basic,Grass,Grass,60.0,,Rare,Kagemaru Himeno,Unknown,127.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,3.98,normal,3.16,3.46,2000
+base4-30,Snorlax,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Rare,Ken Sugimori,Unknown,143.0,4.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,23.71,normal,16.17,14.98,2000
+base4-31,Venomoth,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Venonat,Rare,Ken Sugimori,Unknown,49.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,3.76,normal,3.14,3.29,2000
+base4-32,Victreebel,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Weepinbell,Rare,Ken Sugimori,Unknown,71.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,3.17,normal,3.39,3.66,2000
+base4-33,Arcanine,Pokémon,Stage 1,Stage 1,Fire,Fire,100.0,Growlithe,Uncommon,Ken Sugimori,Unknown,59.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.84,normal,2.42,2.94,2000
+base4-34,Butterfree,Pokémon,Stage 2,Stage 2,Grass,Grass,70.0,Metapod,Uncommon,Kagemaru Himeno,Unknown,12.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.53,normal,1.94,1.93,2000
+base4-35,Charmeleon,Pokémon,Stage 1,Stage 1,Fire,Fire,80.0,Charmander,Uncommon,Mitsuhiro Arita,Unknown,5.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.8,normal,1.27,1.6,2000
+base4-36,Dewgong,Pokémon,Stage 1,Stage 1,Water,Water,80.0,Seel,Uncommon,Mitsuhiro Arita,Unknown,87.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.17,normal,1.61,1.73,2000
+base4-37,Dodrio,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Doduo,Uncommon,Mitsuhiro Arita,Unknown,85.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,2.14,normal,1.42,1.72,2000
+base4-38,Dratini,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Uncommon,Ken Sugimori,Unknown,147.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.97,normal,1.25,1.45,2000
+base4-39,Exeggutor,Pokémon,Stage 1,Stage 1,Grass,Grass,80.0,Exeggcute,Uncommon,Kagemaru Himeno,Unknown,103.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.21,normal,1.76,1.97,2000
+base4-40,Farfetch'd,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Uncommon,Ken Sugimori,Unknown,83.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.7,normal,0.67,0.67,2000
+base4-41,Fearow,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Spearow,Uncommon,Mitsuhiro Arita,Unknown,22.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.3,normal,1.0,1.24,2000
+base4-42,Growlithe,Pokémon,Basic,Basic,Fire,Fire,60.0,,Uncommon,Ken Sugimori,Unknown,58.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.49,normal,1.48,1.48,2000
+base4-43,Haunter,Pokémon,Stage 1,Stage 1,Psychic,Psychic,60.0,Gastly,Uncommon,Keiji Kinebuchi,Unknown,93.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.11,normal,1.01,0.85,2000
+base4-44,Ivysaur,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Bulbasaur,Uncommon,Ken Sugimori,Unknown,2.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,4.57,normal,3.7,3.68,2000
+base4-45,Jynx,Pokémon,Basic,Basic,Psychic,Psychic,70.0,,Uncommon,Ken Sugimori,Unknown,124.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.07,normal,0.6,0.62,2000
+base4-46,Kadabra,Pokémon,Stage 1,Stage 1,Psychic,Psychic,60.0,Abra,Uncommon,Ken Sugimori,Unknown,64.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.56,normal,0.89,0.83,2000
+base4-47,Kakuna,Pokémon,Stage 1,Stage 1,Grass,Grass,80.0,Weedle,Uncommon,Keiji Kinebuchi,Unknown,14.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.92,normal,0.66,0.74,2000
+base4-48,Lickitung,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Uncommon,Mitsuhiro Arita,Unknown,108.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,2.1,normal,1.84,1.51,2000
+base4-49,Machoke,Pokémon,Stage 1,Stage 1,Fighting,Fighting,80.0,Machop,Uncommon,Ken Sugimori,Unknown,67.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.77,normal,0.6,0.6,2000
+base4-50,Magikarp,Pokémon,Basic,Basic,Water,Water,30.0,,Uncommon,Mitsuhiro Arita,Unknown,129.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.58,normal,1.27,1.52,2000
+base4-51,Magmar,Pokémon,Basic,Basic,Fire,Fire,50.0,,Uncommon,Ken Sugimori,Unknown,126.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.28,normal,0.98,0.94,2000
+base4-52,Marowak,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Cubone,Uncommon,Mitsuhiro Arita,Unknown,105.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.99,normal,1.84,1.83,2000
+base4-53,Nidorina,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Nidoran ♀,Uncommon,Ken Sugimori,Unknown,30.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.79,normal,0.7,0.64,2000
+base4-54,Nidorino,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Nidoran ♂,Uncommon,Mitsuhiro Arita,Unknown,33.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.57,normal,1.93,1.85,2000
+base4-55,Parasect,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Paras,Uncommon,Ken Sugimori,Unknown,47.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.16,normal,1.6,1.36,2000
+base4-56,Persian,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Meowth,Uncommon,Kagemaru Himeno,Unknown,53.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,2.26,normal,2.14,2.53,2000
+base4-57,Poliwhirl,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Poliwag,Uncommon,Ken Sugimori,Unknown,61.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.08,normal,0.85,0.93,2000
+base4-58,Raticate,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Rattata,Uncommon,Ken Sugimori,Unknown,20.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.94,normal,0.93,0.85,2000
+base4-59,Rhydon,Pokémon,Stage 1,Stage 1,Fighting,Fighting,100.0,Rhyhorn,Uncommon,Kagemaru Himeno,Unknown,112.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.86,normal,1.39,1.14,2000
+base4-60,Seaking,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Goldeen,Uncommon,Kagemaru Himeno,Unknown,119.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.05,normal,0.58,0.55,2000
+base4-61,Seel,Pokémon,Basic,Basic,Water,Water,60.0,,Uncommon,Ken Sugimori,Unknown,86.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.85,normal,0.5,0.41,2000
+base4-62,Tauros,Pokémon,Basic,Basic,Colorless,Colorless,60.0,,Uncommon,Kagemaru Himeno,Unknown,128.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,3.21,normal,2.9,2.88,2000
+base4-63,Wartortle,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Squirtle,Uncommon,Ken Sugimori,Unknown,8.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.83,normal,3.27,4.08,2000
+base4-64,Weepinbell,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Bellsprout,Uncommon,Kagemaru Himeno,Unknown,70.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.1,normal,0.9,0.84,2000
+base4-65,Abra,Pokémon,Basic,Basic,Psychic,Psychic,30.0,,Common,Mitsuhiro Arita,Unknown,63.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.58,normal,0.33,0.31,2000
+base4-66,Bellsprout,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Kagemaru Himeno,Unknown,69.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.41,normal,0.3,0.26,2000
+base4-67,Bulbasaur,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Mitsuhiro Arita,Unknown,1.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,3.01,normal,1.85,2.91,2000
+base4-68,Caterpie,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,10.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.65,normal,0.49,0.38,2000
+base4-69,Charmander,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Mitsuhiro Arita,Unknown,4.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.28,normal,1.36,1.95,2000
+base4-70,Cubone,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Mitsuhiro Arita,Unknown,104.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.38,normal,1.12,1.07,2000
+base4-71,Diglett,Pokémon,Basic,Basic,Fighting,Fighting,30.0,,Common,Keiji Kinebuchi,Unknown,50.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.51,normal,0.31,0.31,2000
+base4-72,Doduo,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Mitsuhiro Arita,Unknown,84.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.45,normal,0.32,0.37,2000
+base4-73,Drowzee,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Ken Sugimori,Unknown,96.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.55,normal,0.47,0.54,2000
+base4-74,Exeggcute,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Mitsuhiro Arita,Unknown,102.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.66,normal,0.65,0.51,2000
+base4-75,Gastly,Pokémon,Basic,Basic,Psychic,Psychic,30.0,,Common,Keiji Kinebuchi,Unknown,92.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.51,normal,0.44,0.49,2000
+base4-76,Goldeen,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Kagemaru Himeno,Unknown,118.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.4,normal,0.27,0.4,2000
+base4-77,Jigglypuff,Pokémon,Basic,Basic,Colorless,Colorless,60.0,,Common,Kagemaru Himeno,Unknown,39.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.87,normal,0.65,0.69,2000
+base4-78,Machop,Pokémon,Basic,Basic,Fighting,Fighting,50.0,,Common,Mitsuhiro Arita,Unknown,66.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.44,normal,0.29,0.43,2000
+base4-79,Magnemite,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Keiji Kinebuchi,Unknown,81.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.42,normal,0.38,0.59,2000
+base4-80,Meowth,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Mitsuhiro Arita,Unknown,52.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.6,normal,0.44,0.52,2000
+base4-81,Metapod,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Caterpie,Common,Ken Sugimori,Unknown,11.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.58,normal,0.55,0.63,2000
+base4-82,Nidoran ♀,Pokémon,Basic,Basic,Grass,Grass,60.0,,Common,Ken Sugimori,Unknown,29.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.44,normal,0.33,0.49,2000
+base4-83,Nidoran ♂,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,32.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.51,normal,0.44,0.55,2000
+base4-84,Onix,Pokémon,Basic,Basic,Fighting,Fighting,90.0,,Common,Ken Sugimori,Unknown,95.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.93,normal,1.29,1.44,2000
+base4-85,Paras,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,46.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.57,normal,0.64,0.61,2000
+base4-86,Pidgey,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Common,Ken Sugimori,Unknown,16.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.62,normal,0.67,0.81,2000
+base4-87,Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Mitsuhiro Arita,Unknown,25.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,2.44,normal,2.41,2.23,2000
+base4-88,Poliwag,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Ken Sugimori,Unknown,60.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.52,normal,0.4,0.44,2000
+base4-89,Rattata,Pokémon,Basic,Basic,Colorless,Colorless,30.0,,Common,Mitsuhiro Arita,Unknown,19.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.55,normal,0.45,0.46,2000
+base4-90,Rhyhorn,Pokémon,Basic,Basic,Fighting,Fighting,70.0,,Common,Mitsuhiro Arita,Unknown,111.0,3.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.6,normal,0.67,0.72,2000
+base4-91,Sandshrew,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Ken Sugimori,Unknown,27.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.52,normal,0.46,0.66,2000
+base4-92,Spearow,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Mitsuhiro Arita,Unknown,21.0,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.55,normal,0.55,0.7,2000
+base4-93,Squirtle,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Mitsuhiro Arita,Unknown,7.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.38,normal,0.94,0.98,2000
+base4-94,Starmie,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Staryu,Common,Keiji Kinebuchi,Unknown,121.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.71,normal,0.45,0.56,2000
+base4-95,Staryu,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Keiji Kinebuchi,Unknown,120.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.37,normal,0.23,0.32,2000
+base4-96,Tangela,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Mitsuhiro Arita,Unknown,114.0,2.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.51,normal,0.21,0.3,2000
+base4-97,Venonat,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Mitsuhiro Arita,Unknown,48.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.68,normal,0.5,0.5,2000
+base4-98,Voltorb,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Keiji Kinebuchi,Unknown,100.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.6,normal,0.3,0.24,2000
+base4-99,Vulpix,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Ken Sugimori,Unknown,37.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.97,normal,0.77,0.84,2000
+base4-100,Weedle,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Mitsuhiro Arita,Unknown,13.0,1.0,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.41,normal,0.15,0.41,2000
+base4-101,Computer Search,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,2.47,normal,3.35,2.27,2000
+base4-102,Imposter Professor Oak,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,2.54,normal,4.15,3.63,2000
+base4-103,Item Finder,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,8.62,normal,5.69,5.9,2000
+base4-104,Lass,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,2.72,normal,3.33,3.3,2000
+base4-105,Pokémon Breeder,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,4.42,normal,4.19,4.34,2000
+base4-106,Pokémon Trader,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,3.22,normal,3.64,3.15,2000
+base4-107,Scoop Up,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,5.09,normal,4.9,5.61,2000
+base4-108,Super Energy Removal,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,2.81,normal,2.28,2.4,2000
+base4-109,Defender,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.42,normal,0.31,0.4,2000
+base4-110,Energy Retrieval,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.42,normal,0.24,0.33,2000
+base4-111,Full Heal,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.44,normal,0.29,0.41,2000
+base4-112,Maintenance,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.88,normal,0.9,0.73,2000
+base4-113,PlusPower,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.47,normal,0.32,0.42,2000
+base4-114,Pokémon Center,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.91,normal,0.73,0.67,2000
+base4-115,Pokédex,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.59,normal,0.42,0.38,2000
+base4-116,Professor Oak,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.31,normal,0.83,0.88,2000
+base4-117,Super Potion,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.37,normal,0.16,0.28,2000
+base4-118,Bill,Trainer,Unknown,,Unknown,,,,Common,Ken Sugimori,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.37,normal,0.17,0.3,2000
+base4-119,Energy Removal,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.37,normal,0.13,0.25,2000
+base4-120,Gust of Wind,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.3,normal,0.1,0.14,2000
+base4-121,Poké Ball,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.37,normal,0.16,0.34,2000
+base4-122,Potion,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.3,normal,0.08,0.06,2000
+base4-123,Switch,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.32,normal,0.13,0.07,2000
+base4-124,Double Colorless Energy,Energy,Special,Special,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,2.85,normal,2.82,3.26,2000
+base4-125,Fighting Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.29,normal,0.12,0.2,2000
+base4-126,Fire Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,1.02,normal,0.23,0.18,2000
+base4-127,Grass Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.3,normal,0.1,0.17,2000
+base4-128,Lightning Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.29,normal,0.08,0.25,2000
+base4-129,Psychic Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.29,normal,0.12,0.17,2000
+base4-130,Water Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,base4,Base Set 2,Base,2000-02-24,130,130,2026/03/26,0.32,normal,0.07,0.1,2000
+base5-1,Dark Alakazam,Pokémon,Stage 2,Stage 2,Psychic,Psychic,60.0,Dark Kadabra,Rare Holo,Ken Sugimori,Unknown,65.0,3.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,139.88,1stEditionHolofoil,49.93,48.05,2000
+base5-2,Dark Arbok,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Ekans,Rare Holo,Mitsuhiro Arita,Unknown,24.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,46.99,1stEditionHolofoil,11.17,12.63,2000
+base5-3,Dark Blastoise,Pokémon,Stage 2,Stage 2,Water,Water,70.0,Dark Wartortle,Rare Holo,Mitsuhiro Arita,Unknown,9.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,393.46,1stEditionHolofoil,110.13,83.0,2000
+base5-4,Dark Charizard,Pokémon,Stage 2,Stage 2,Fire,Fire,80.0,Dark Charmeleon,Rare Holo,Ken Sugimori,Unknown,6.0,3.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,680.37,1stEditionHolofoil,384.97,242.14,2000
+base5-5,Dark Dragonite,Pokémon,Stage 2,Stage 2,Colorless,Colorless,70.0,Dark Dragonair,Rare Holo,Mitsuhiro Arita,Unknown,149.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,332.35,1stEditionHolofoil,106.67,204.03,2000
+base5-6,Dark Dugtrio,Pokémon,Stage 1,Stage 1,Fighting,Fighting,50.0,Diglett,Rare Holo,Kagemaru Himeno,Unknown,51.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,65.43,1stEditionHolofoil,41.77,40.14,2000
+base5-7,Dark Golbat,Pokémon,Stage 1,Stage 1,Grass,Grass,50.0,Zubat,Rare Holo,Mitsuhiro Arita,Unknown,42.0,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,50.11,1stEditionHolofoil,59.49,22.6,2000
+base5-8,Dark Gyarados,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Magikarp,Rare Holo,Kagemaru Himeno,Unknown,130.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,127.95,1stEditionHolofoil,30.7,32.85,2000
+base5-9,Dark Hypno,Pokémon,Stage 1,Stage 1,Psychic,Psychic,60.0,Drowzee,Rare Holo,Kagemaru Himeno,Unknown,97.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,70.98,1stEditionHolofoil,64.65,80.73,2000
+base5-10,Dark Machamp,Pokémon,Stage 2,Stage 2,Fighting,Fighting,70.0,Dark Machoke,Rare Holo,Mitsuhiro Arita,Unknown,68.0,3.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,83.93,1stEditionHolofoil,67.34,59.0,2000
+base5-11,Dark Magneton,Pokémon,Stage 1,Stage 1,Lightning,Lightning,60.0,Magnemite,Rare Holo,Miki Tanaka,Unknown,82.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,98.0,1stEditionHolofoil,34.23,39.62,2000
+base5-12,Dark Slowbro,Pokémon,Stage 1,Stage 1,Psychic,Psychic,60.0,Slowpoke,Rare Holo,Mitsuhiro Arita,Unknown,80.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,87.05,1stEditionHolofoil,43.29,25.16,2000
+base5-13,Dark Vileplume,Pokémon,Stage 2,Stage 2,Grass,Grass,60.0,Dark Gloom,Rare Holo,Kagemaru Himeno,Unknown,45.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,63.48,1stEditionHolofoil,25.48,30.79,2000
+base5-14,Dark Weezing,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Koffing,Rare Holo,Shin-ichi Yoshida,Unknown,110.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,44.15,1stEditionHolofoil,21.5,0.02,2000
+base5-15,Here Comes Team Rocket!,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,58.09,1stEditionHolofoil,39.74,34.3,2000
+base5-16,Rocket's Sneak Attack,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,41.16,1stEditionHolofoil,43.09,26.06,2000
+base5-17,Rainbow Energy,Energy,Special,Special,Unknown,,,,Rare Holo,Takumi Akabane,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,45.27,1stEditionHolofoil,22.93,30.72,2000
+base5-18,Dark Alakazam,Pokémon,Stage 2,Stage 2,Psychic,Psychic,60.0,Dark Kadabra,Rare,Ken Sugimori,Unknown,65.0,3.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,11.62,16.46,2000
+base5-19,Dark Arbok,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Ekans,Rare,Mitsuhiro Arita,Unknown,24.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,7.52,8.38,2000
+base5-20,Dark Blastoise,Pokémon,Stage 2,Stage 2,Water,Water,70.0,Dark Wartortle,Rare,Mitsuhiro Arita,Unknown,9.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,23.51,16.39,2000
+base5-21,Dark Charizard,Pokémon,Stage 2,Stage 2,Fire,Fire,80.0,Dark Charmeleon,Rare,Ken Sugimori,Unknown,6.0,3.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,51.89,58.66,2000
+base5-22,Dark Dragonite,Pokémon,Stage 2,Stage 2,Colorless,Colorless,70.0,Dark Dragonair,Rare,Mitsuhiro Arita,Unknown,149.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,18.99,27.21,2000
+base5-23,Dark Dugtrio,Pokémon,Stage 1,Stage 1,Fighting,Fighting,50.0,Diglett,Rare,Kagemaru Himeno,Unknown,51.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,7.5,9.12,2000
+base5-24,Dark Golbat,Pokémon,Stage 1,Stage 1,Grass,Grass,50.0,Zubat,Rare,Mitsuhiro Arita,Unknown,42.0,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,8.67,7.33,2000
+base5-25,Dark Gyarados,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Magikarp,Rare,Kagemaru Himeno,Unknown,130.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,14.75,13.81,2000
+base5-26,Dark Hypno,Pokémon,Stage 1,Stage 1,Psychic,Psychic,60.0,Drowzee,Rare,Kagemaru Himeno,Unknown,97.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,7.91,8.14,2000
+base5-27,Dark Machamp,Pokémon,Stage 2,Stage 2,Fighting,Fighting,70.0,Dark Machoke,Rare,Mitsuhiro Arita,Unknown,68.0,3.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,7.7,12.63,2000
+base5-28,Dark Magneton,Pokémon,Stage 1,Stage 1,Lightning,Lightning,60.0,Magnemite,Rare,Miki Tanaka,Unknown,82.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,7.92,12.84,2000
+base5-29,Dark Slowbro,Pokémon,Stage 1,Stage 1,Psychic,Psychic,60.0,Slowpoke,Rare,Mitsuhiro Arita,Unknown,80.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,7.27,14.52,2000
+base5-30,Dark Vileplume,Pokémon,Stage 2,Stage 2,Grass,Grass,60.0,Dark Gloom,Rare,Kagemaru Himeno,Unknown,45.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,8.24,7.65,2000
+base5-31,Dark Weezing,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Koffing,Rare,Shin-ichi Yoshida,Unknown,110.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,8.48,6.48,2000
+base5-32,Dark Charmeleon,Pokémon,Stage 1,Stage 1,Fire,Fire,50.0,Charmander,Uncommon,Kagemaru Himeno,Unknown,5.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,6.98,6.1,2000
+base5-33,Dark Dragonair,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Dratini,Uncommon,Kagemaru Himeno,Unknown,148.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,5.41,5.33,2000
+base5-34,Dark Electrode,Pokémon,Stage 1,Stage 1,Lightning,Lightning,60.0,Voltorb,Uncommon,Ken Sugimori,Unknown,101.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,1.83,1.36,2000
+base5-35,Dark Flareon,Pokémon,Stage 1,Stage 1,Fire,Fire,50.0,Eevee,Uncommon,Mitsuhiro Arita,Unknown,136.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,6.33,5.96,2000
+base5-36,Dark Gloom,Pokémon,Stage 1,Stage 1,Grass,Grass,50.0,Oddish,Uncommon,Kagemaru Himeno,Unknown,44.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,1.54,1.85,2000
+base5-37,Dark Golduck,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Psyduck,Uncommon,Mitsuhiro Arita,Unknown,55.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,3.33,3.82,2000
+base5-38,Dark Jolteon,Pokémon,Stage 1,Stage 1,Lightning,Lightning,50.0,Eevee,Uncommon,Mitsuhiro Arita,Unknown,135.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,10.65,10.27,2000
+base5-39,Dark Kadabra,Pokémon,Stage 1,Stage 1,Psychic,Psychic,50.0,Abra,Uncommon,Kagemaru Himeno,Unknown,64.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,2.14,2.16,2000
+base5-40,Dark Machoke,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Machop,Uncommon,Mitsuhiro Arita,Unknown,67.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,3.23,3.13,2000
+base5-41,Dark Muk,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Grimer,Uncommon,Kagemaru Himeno,Unknown,89.0,2.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,2.25,2.38,2000
+base5-42,Dark Persian,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Meowth,Uncommon,Shin-ichi Yoshida,Unknown,53.0,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,2.26,2.26,2000
+base5-43,Dark Primeape,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Mankey,Uncommon,Mitsuhiro Arita,Unknown,57.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,2.61,1.93,2000
+base5-44,Dark Rapidash,Pokémon,Stage 1,Stage 1,Fire,Fire,60.0,Ponyta,Uncommon,Kagemaru Himeno,Unknown,78.0,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,3.21,2.7,2000
+base5-45,Dark Vaporeon,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Eevee,Uncommon,Mitsuhiro Arita,Unknown,134.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,7.75,11.91,2000
+base5-46,Dark Wartortle,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Squirtle,Uncommon,Kagemaru Himeno,Unknown,8.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,4.47,3.81,2000
+base5-47,Magikarp,Pokémon,Basic,Basic,Water,Water,30.0,,Uncommon,Kagemaru Himeno,Unknown,129.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,6.47,28.69,2000
+base5-48,Porygon,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Uncommon,Keiji Kinebuchi,Unknown,137.0,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,2.27,3.71,2000
+base5-49,Abra,Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Common,Sumiyoshi Kizuki,Unknown,63.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.86,0.83,2000
+base5-50,Charmander,Pokémon,Basic,Basic,Fire,Fire,40.0,,Common,Kagemaru Himeno,Unknown,4.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,3.07,4.61,2000
+base5-51,Dark Raticate,Pokémon,Stage 1,Stage 1,Colorless,Colorless,50.0,Rattata,Common,Shin-ichi Yoshida,Unknown,20.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.89,0.63,2000
+base5-52,Diglett,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Sumiyoshi Kizuki,Unknown,50.0,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.61,0.61,2000
+base5-53,Dratini,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Common,Kagemaru Himeno,Unknown,147.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.85,1.77,2000
+base5-54,Drowzee,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Kagemaru Himeno,Unknown,96.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.55,0.43,2000
+base5-55,Eevee,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Common,Atsuko Nishida,Unknown,133.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,1.98,4.19,2000
+base5-56,Ekans,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Ken Sugimori,Unknown,23.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.54,0.61,2000
+base5-57,Grimer,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Kagemaru Himeno,Unknown,88.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.75,1.37,2000
+base5-58,Koffing,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Sumiyoshi Kizuki,Unknown,109.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.63,0.49,2000
+base5-59,Machop,Pokémon,Basic,Basic,Fighting,Fighting,50.0,,Common,Ken Sugimori,Unknown,66.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.61,0.76,2000
+base5-60,Magnemite,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Miki Tanaka,Unknown,81.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.67,0.6,2000
+base5-61,Mankey,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Sumiyoshi Kizuki,Unknown,56.0,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.65,0.59,2000
+base5-62,Meowth,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Common,Atsuko Nishida,Unknown,52.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.97,0.61,2000
+base5-63,Oddish,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Kagemaru Himeno,Unknown,43.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.57,0.67,2000
+base5-64,Ponyta,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Atsuko Nishida,Unknown,77.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.55,0.65,2000
+base5-65,Psyduck,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Mitsuhiro Arita,Unknown,54.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,3.06,1.85,2000
+base5-66,Rattata,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Common,Atsuko Nishida,Unknown,19.0,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.64,0.77,2000
+base5-67,Slowpoke,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Sumiyoshi Kizuki,Unknown,79.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,1.09,0.98,2000
+base5-68,Squirtle,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Atsuko Nishida,Unknown,7.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,2.04,1.91,2000
+base5-69,Voltorb,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Ken Sugimori,Unknown,100.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.65,2.26,2000
+base5-70,Zubat,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Mitsuhiro Arita,Unknown,41.0,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.69,0.77,2000
+base5-71,Here Comes Team Rocket!,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,9.68,10.41,2000
+base5-72,Rocket's Sneak Attack,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,9.91,10.36,2000
+base5-73,The Boss's Way,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,1.62,1.17,2000
+base5-74,Challenge!,Trainer,Unknown,,Unknown,,,,Uncommon,Kagemaru Himeno,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,2.02,1.37,2000
+base5-75,Digger,Trainer,Rocket's Secret Machine,Rocket's Secret Machine,Unknown,,,,Uncommon,Sumiyoshi Kizuki,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,1.62,1.13,2000
+base5-76,Imposter Oak's Revenge,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,3.04,2.99,2000
+base5-77,Nightly Garbage Run,Trainer,Rocket's Secret Machine,Rocket's Secret Machine,Unknown,,,,Uncommon,Sumiyoshi Kizuki,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,1.49,1.1,2000
+base5-78,Goop Gas Attack,Trainer,Unknown,,Unknown,,,,Common,Sumiyoshi Kizuki,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.53,0.55,2000
+base5-79,Sleep!,Trainer,Rocket's Secret Machine,Rocket's Secret Machine,Unknown,,,,Common,Sumiyoshi Kizuki,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,0.63,0.72,2000
+base5-80,Rainbow Energy,Energy,Special,Special,Unknown,,,,Rare,Takumi Akabane,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,7.77,9.77,2000
+base5-81,Full Heal Energy,Energy,Special,Special,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,1.06,1.58,2000
+base5-82,Potion Energy,Energy,Special,Special,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,,,1.55,2.05,2000
+base5-83,Dark Raichu,Pokémon,Stage 1,Stage 1,Lightning,Lightning,70.0,Pikachu,Rare Secret,Mitsuhiro Arita,Unknown,26.0,1.0,base5,Team Rocket,Base,2000-04-24,83,82,2026/03/26,189.93,1stEditionHolofoil,79.36,101.33,2000
+gym1-1,Blaine's Moltres,Pokémon,Basic,Basic,Fire,Fire,90.0,,Rare Holo,Ken Sugimori,Unknown,146.0,3.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,200.0,1stEditionHolofoil,112.22,99.41,2000
+gym1-2,Brock's Rhydon,Pokémon,Stage 1,Stage 1,Fighting,Fighting,80.0,Brock's Rhyhorn,Rare Holo,Ken Sugimori,Unknown,112.0,3.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,120.37,1stEditionHolofoil,17.18,36.34,2000
+gym1-3,Erika's Clefable,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Erika's Clefairy,Rare Holo,Atsuko Nishida,Unknown,36.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,78.25,1stEditionHolofoil,28.26,46.46,2000
+gym1-4,Erika's Dragonair,Pokémon,Stage 1,Stage 1,Colorless,Colorless,80.0,Erika's Dratini,Rare Holo,Atsuko Nishida,Unknown,148.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,200.91,1stEditionHolofoil,66.36,52.53,2000
+gym1-5,Erika's Vileplume,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Erika's Gloom,Rare Holo,Ken Sugimori,Unknown,45.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,79.75,1stEditionHolofoil,16.6,57.88,2000
+gym1-6,Lt. Surge's Electabuzz,Pokémon,Basic,Basic,Lightning,Lightning,70.0,,Rare Holo,Ken Sugimori,Unknown,125.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,92.94,1stEditionHolofoil,35.22,37.95,2000
+gym1-7,Lt. Surge's Fearow,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Lt. Surge's Spearow,Rare Holo,Ken Sugimori,Unknown,22.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,75.9,1stEditionHolofoil,30.07,27.44,2000
+gym1-8,Lt. Surge's Magneton,Pokémon,Stage 1,Stage 1,Lightning,Lightning,70.0,Lt. Surge's Magnemite,Rare Holo,Ken Sugimori,Unknown,82.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,79.73,1stEditionHolofoil,20.54,22.66,2000
+gym1-9,Misty's Seadra,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Misty's Horsea,Rare Holo,Atsuko Nishida,Unknown,117.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,119.34,1stEditionHolofoil,22.77,34.13,2000
+gym1-10,Misty's Tentacruel,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Misty's Tentacool,Rare Holo,Ken Sugimori,Unknown,73.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,84.14,1stEditionHolofoil,23.06,99.94,2000
+gym1-11,Rocket's Hitmonchan,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Rare Holo,Ken Sugimori,Unknown,107.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,127.96,1stEditionHolofoil,48.62,59.12,2000
+gym1-12,Rocket's Moltres,Pokémon,Basic,Basic,Fire,Fire,60.0,,Rare Holo,Ken Sugimori,Unknown,146.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,143.33,1stEditionHolofoil,112.49,65.08,2000
+gym1-13,Rocket's Scyther,Pokémon,Basic,Basic,Grass,Grass,60.0,,Rare Holo,Ken Sugimori,Unknown,123.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,238.32,1stEditionHolofoil,80.98,122.72,2000
+gym1-14,Sabrina's Gengar,Pokémon,Stage 2,Stage 2,Psychic,Psychic,80.0,Sabrina's Haunter,Rare Holo,Ken Sugimori,Unknown,94.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,308.43,248.01,2000
+gym1-15,Brock,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,82.8,1stEditionHolofoil,33.1,39.51,2000
+gym1-16,Erika,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,92.37,1stEditionHolofoil,67.45,87.71,2000
+gym1-17,Lt. Surge,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,76.91,1stEditionHolofoil,36.65,31.6,2000
+gym1-18,Misty,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,168.46,1stEditionHolofoil,52.96,50.47,2000
+gym1-19,The Rocket's Trap,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,44.03,1stEditionHolofoil,24.8,69.9,2000
+gym1-20,Brock's Golem,Pokémon,Stage 2,Stage 2,Fighting,Fighting,90.0,Brock's Graveler,Rare,Ken Sugimori,Unknown,76.0,4.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,14.19,12.57,2000
+gym1-21,Brock's Onix,Pokémon,Basic,Basic,Fighting,Fighting,70.0,,Rare,Benimaru Itoh,Unknown,95.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,6.64,6.32,2000
+gym1-22,Brock's Rhyhorn,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Rare,Ken Sugimori,Unknown,111.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,9.61,12.1,2000
+gym1-23,Brock's Sandslash,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Brock's Sandshrew,Rare,Ken Sugimori,Unknown,28.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,8.17,7.16,2000
+gym1-24,Brock's Zubat,Pokémon,Basic,Basic,Grass,Grass,30.0,,Rare,Ken Sugimori,Unknown,41.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,7.78,6.64,2000
+gym1-25,Erika's Clefairy,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Rare,Ken Sugimori,Unknown,35.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,8.51,9.44,2000
+gym1-26,Erika's Victreebel,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Erika's Weepinbell,Rare,Ken Sugimori,Unknown,71.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,11.6,10.87,2000
+gym1-27,Lt. Surge's Electabuzz,Pokémon,Basic,Basic,Lightning,Lightning,60.0,,Rare,Ken Sugimori,Unknown,125.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,8.18,6.17,2000
+gym1-28,Lt. Surge's Raichu,Pokémon,Stage 1,Stage 1,Lightning,Lightning,70.0,Lt. Surge's Pikachu,Rare,Ken Sugimori,Unknown,26.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,25.2,21.36,2000
+gym1-29,Misty's Cloyster,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Misty's Shellder,Rare,Ken Sugimori,Unknown,91.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,11.73,11.42,2000
+gym1-30,Misty's Goldeen,Pokémon,Basic,Basic,Water,Water,30.0,,Rare,Ken Sugimori,Unknown,118.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,6.03,5.84,2000
+gym1-31,Misty's Poliwrath,Pokémon,Stage 2,Stage 2,Water,Water,90.0,Misty's Poliwhirl,Rare,Ken Sugimori,Unknown,62.0,3.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,11.8,10.69,2000
+gym1-32,Misty's Tentacool,Pokémon,Basic,Basic,Water,Water,40.0,,Rare,Ken Sugimori,Unknown,72.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,8.48,8.83,2000
+gym1-33,Rocket's Snorlax,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Rare,Shin-ichi Yoshida,Unknown,143.0,4.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,39.96,47.83,2000
+gym1-34,Sabrina's Venomoth,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Sabrina's Venonat,Rare,Ken Sugimori,Unknown,49.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,5.69,5.96,2000
+gym1-35,Blaine's Growlithe,Pokémon,Basic,Basic,Fire,Fire,50.0,,Uncommon,Ken Sugimori,Unknown,58.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,4.6,4.39,2000
+gym1-36,Blaine's Kangaskhan,Pokémon,Basic,Basic,Colorless,Colorless,80.0,,Uncommon,Ken Sugimori,Unknown,115.0,3.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,3.7,3.56,2000
+gym1-37,Blaine's Magmar,Pokémon,Basic,Basic,Fire,Fire,60.0,,Uncommon,Ken Sugimori,Unknown,126.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,4.59,4.89,2000
+gym1-38,Brock's Geodude,Pokémon,Basic,Basic,Fighting,Fighting,50.0,,Uncommon,Atsuko Nishida,Unknown,74.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.88,1.95,2000
+gym1-39,Brock's Golbat,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Brock's Zubat,Uncommon,Ken Sugimori,Unknown,42.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.94,2.21,2000
+gym1-40,Brock's Graveler,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Brock's Geodude,Uncommon,Ken Sugimori,Unknown,75.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.38,1.46,2000
+gym1-41,Brock's Lickitung,Pokémon,Basic,Basic,Colorless,Colorless,80.0,,Uncommon,Ken Sugimori,Unknown,108.0,3.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.01,2.34,2000
+gym1-42,Erika's Dratini,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Uncommon,Ken Sugimori,Unknown,147.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,3.62,3.6,2000
+gym1-43,Erika's Exeggcute,Pokémon,Basic,Basic,Grass,Grass,50.0,,Uncommon,Atsuko Nishida,Unknown,102.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.75,2.15,2000
+gym1-44,Erika's Exeggutor,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Erika's Exeggcute,Uncommon,Ken Sugimori,Unknown,103.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.48,2.5,2000
+gym1-45,Erika's Gloom,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Erika's Oddish,Uncommon,Ken Sugimori,Unknown,44.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.92,2.27,2000
+gym1-46,Erika's Gloom,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Erika's Oddish,Uncommon,Ken Sugimori,Unknown,44.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.29,2.61,2000
+gym1-47,Erika's Oddish,Pokémon,Basic,Basic,Grass,Grass,40.0,,Uncommon,Atsuko Nishida,Unknown,43.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,3.4,3.68,2000
+gym1-48,Erika's Weepinbell,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Erika's Bellsprout,Uncommon,Atsuko Nishida,Unknown,70.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,5.92,6.58,2000
+gym1-49,Erika's Weepinbell,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Erika's Bellsprout,Uncommon,Ken Sugimori,Unknown,70.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.73,1.78,2000
+gym1-50,Lt. Surge's Magnemite,Pokémon,Basic,Basic,Lightning,Lightning,30.0,,Uncommon,Atsuko Nishida,Unknown,81.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.67,2.81,2000
+gym1-51,Lt. Surge's Raticate,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Lt. Surge's Rattata,Uncommon,Ken Sugimori,Unknown,20.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.39,1.66,2000
+gym1-52,Lt. Surge's Spearow,Pokémon,Basic,Basic,Colorless,Colorless,30.0,,Uncommon,Ken Sugimori,Unknown,21.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.94,1.02,2000
+gym1-53,Misty's Poliwhirl,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Misty's Poliwag,Uncommon,Ken Sugimori,Unknown,61.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.19,1.99,2000
+gym1-54,Misty's Psyduck,Pokémon,Basic,Basic,Water,Water,50.0,,Uncommon,Atsuko Nishida,Unknown,54.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,6.12,8.64,2000
+gym1-55,Misty's Seaking,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Misty's Goldeen,Uncommon,Ken Sugimori,Unknown,119.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.32,2.34,2000
+gym1-56,Misty's Starmie,Pokémon,Stage 1,Stage 1,Water,Water,80.0,Misty's Staryu,Uncommon,Ken Sugimori,Unknown,121.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.37,4.14,2000
+gym1-57,Misty's Tentacool,Pokémon,Basic,Basic,Water,Water,50.0,,Uncommon,Ken Sugimori,Unknown,72.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.58,0.88,2000
+gym1-58,Sabrina's Haunter,Pokémon,Stage 1,Stage 1,Psychic,Psychic,50.0,Sabrina's Gastly,Uncommon,Atsuko Nishida,Unknown,93.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,6.25,3.36,2000
+gym1-59,Sabrina's Jynx,Pokémon,Basic,Basic,Psychic,Psychic,60.0,,Uncommon,Ken Sugimori,Unknown,124.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,3.04,3.3,2000
+gym1-60,Sabrina's Slowbro,Pokémon,Stage 1,Stage 1,Psychic,Psychic,70.0,Sabrina's Slowpoke,Uncommon,Ken Sugimori,Unknown,80.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,3.45,3.39,2000
+gym1-61,Blaine's Charmander,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Ken Sugimori,Unknown,4.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,3.17,4.47,2000
+gym1-62,Blaine's Growlithe,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Atsuko Nishida,Unknown,58.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.93,1.75,2000
+gym1-63,Blaine's Ponyta,Pokémon,Basic,Basic,Fire,Fire,40.0,,Common,Ken Sugimori,Unknown,77.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.35,1.56,2000
+gym1-64,Blaine's Tauros,Pokémon,Basic,Basic,Colorless,Colorless,70.0,,Common,Ken Sugimori,Unknown,128.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.09,1.35,2000
+gym1-65,Blaine's Vulpix,Pokémon,Basic,Basic,Fire,Fire,40.0,,Common,Ken Sugimori,Unknown,37.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.0,1.98,2000
+gym1-66,Brock's Geodude,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Ken Sugimori,Unknown,74.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.87,1.63,2000
+gym1-67,Brock's Mankey,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Atsuko Nishida,Unknown,56.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.87,1.02,2000
+gym1-68,Brock's Mankey,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Ken Sugimori,Unknown,56.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.28,1.42,2000
+gym1-69,Brock's Onix,Pokémon,Basic,Basic,Fighting,Fighting,100.0,,Common,Ken Sugimori,Unknown,95.0,3.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.19,1.76,2000
+gym1-70,Brock's Rhyhorn,Pokémon,Basic,Basic,Fighting,Fighting,70.0,,Common,Ken Sugimori,Unknown,111.0,3.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.84,0.99,2000
+gym1-71,Brock's Sandshrew,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Ken Sugimori,Unknown,27.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.94,0.73,2000
+gym1-72,Brock's Sandshrew,Pokémon,Basic,Basic,Fighting,Fighting,50.0,,Common,Ken Sugimori,Unknown,27.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.02,2.79,2000
+gym1-73,Brock's Vulpix,Pokémon,Basic,Basic,Fire,Fire,40.0,,Common,Ken Sugimori,Unknown,37.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.41,1.85,2000
+gym1-74,Brock's Zubat,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Atsuko Nishida,Unknown,41.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.2,1.16,2000
+gym1-75,Erika's Bellsprout,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Atsuko Nishida,Unknown,69.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.31,1.58,2000
+gym1-76,Erika's Bellsprout,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Ken Sugimori,Unknown,69.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.57,0.39,2000
+gym1-77,Erika's Exeggcute,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,102.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.77,1.37,2000
+gym1-78,Erika's Oddish,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Ken Sugimori,Unknown,43.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.71,0.63,2000
+gym1-79,Erika's Tangela,Pokémon,Basic,Basic,Grass,Grass,60.0,,Common,Ken Sugimori,Unknown,114.0,2.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.82,0.55,2000
+gym1-80,Lt. Surge's Magnemite,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Ken Sugimori,Unknown,81.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.65,0.89,2000
+gym1-81,Lt. Surge's Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,50.0,,Common,Ken Sugimori,Unknown,25.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,6.49,7.5,2000
+gym1-82,Lt. Surge's Rattata,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Common,Ken Sugimori,Unknown,19.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.6,0.45,2000
+gym1-83,Lt. Surge's Spearow,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Atsuko Nishida,Unknown,21.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.78,0.51,2000
+gym1-84,Lt. Surge's Voltorb,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Ken Sugimori,Unknown,100.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.83,0.64,2000
+gym1-85,Misty's Goldeen,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Atsuko Nishida,Unknown,118.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.89,0.81,2000
+gym1-86,Misty's Horsea,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Ken Sugimori,Unknown,116.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.81,0.78,2000
+gym1-87,Misty's Poliwag,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Ken Sugimori,Unknown,60.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.65,0.49,2000
+gym1-88,Misty's Seel,Pokémon,Basic,Basic,Water,Water,60.0,,Common,Atsuko Nishida,Unknown,86.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.06,1.38,2000
+gym1-89,Misty's Shellder,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Ken Sugimori,Unknown,90.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.8,1.02,2000
+gym1-90,Misty's Staryu,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Ken Sugimori,Unknown,120.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.82,0.69,2000
+gym1-91,Sabrina's Abra,Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Common,Ken Sugimori,Unknown,63.0,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.68,1.43,2000
+gym1-92,Sabrina's Drowzee,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Atsuko Nishida,Unknown,96.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.1,1.07,2000
+gym1-93,Sabrina's Gastly,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Ken Sugimori,Unknown,92.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.3,0.82,2000
+gym1-94,Sabrina's Mr. Mime,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Ken Sugimori,Unknown,122.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.24,3.43,2000
+gym1-95,Sabrina's Slowpoke,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Ken Sugimori,Unknown,79.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.33,1.21,2000
+gym1-96,Sabrina's Venonat,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,48.0,1.0,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.11,0.89,2000
+gym1-97,Blaine's Quiz #1,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,9.81,9.06,2000
+gym1-98,Brock,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,4.48,4.41,2000
+gym1-99,Charity,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,8.74,8.05,2000
+gym1-100,Erika,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,4.53,3.93,2000
+gym1-101,Lt. Surge,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,4.28,13.64,2000
+gym1-102,Misty,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,3.95,5.53,2000
+gym1-103,No Removal Gym,Trainer,Stadium,Stadium,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,11.39,10.83,2000
+gym1-104,The Rocket's Training Gym,Trainer,Stadium,Stadium,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,13.06,13.49,2000
+gym1-105,Blaine's Last Resort,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.34,1.73,2000
+gym1-106,Brock's Training Method,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.02,1.48,2000
+gym1-107,Celadon City Gym,Trainer,Stadium,Stadium,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.7,1.43,2000
+gym1-108,Cerulean City Gym,Trainer,Stadium,Stadium,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.3,1.53,2000
+gym1-109,Erika's Maids,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.51,1.9,2000
+gym1-110,Erika's Perfume,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.14,1.92,2000
+gym1-111,Good Manners,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,4.87,4.73,2000
+gym1-112,Lt. Surge's Treaty,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.52,1.6,2000
+gym1-113,Minion of Team Rocket,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,6.4,5.32,2000
+gym1-114,Misty's Wrath,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,12.25,8.12,2000
+gym1-115,Pewter City Gym,Trainer,Stadium,Stadium,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.65,1.29,2000
+gym1-116,Recall,Trainer,Unknown,,Unknown,,,,Uncommon,Sumiyoshi Kizuki,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,5.16,6.24,2000
+gym1-117,Sabrina's ESP,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,3.23,3.28,2000
+gym1-118,Secret Mission,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,2.91,2.09,2000
+gym1-119,Tickling Machine,Trainer,Rocket's Secret Machine,Rocket's Secret Machine,Unknown,,,,Uncommon,Sumiyoshi Kizuki,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,4.62,4.22,2000
+gym1-120,Vermilion City Gym,Trainer,Stadium,Stadium,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.37,1.07,2000
+gym1-121,Blaine's Gamble,Trainer,Unknown,,Unknown,,,,Common,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.49,0.48,2000
+gym1-122,Energy Flow,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.53,0.57,2000
+gym1-123,Misty's Duel,Trainer,Unknown,,Unknown,,,,Common,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.6,2.06,2000
+gym1-124,Narrow Gym,Trainer,Stadium,Stadium,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.19,1.25,2000
+gym1-125,Sabrina's Gaze,Trainer,Unknown,,Unknown,,,,Common,Ken Sugimori,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.24,1.14,2000
+gym1-126,Trash Exchange,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.3,1.64,2000
+gym1-127,Fighting Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.63,0.56,2000
+gym1-128,Fire Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.83,2.35,2000
+gym1-129,Grass Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.84,1.17,2000
+gym1-130,Lightning Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.36,0.4,2000
+gym1-131,Psychic Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,1.39,1.51,2000
+gym1-132,Water Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym1,Gym Heroes,Gym,2000-08-14,132,132,2026/03/26,,,0.74,0.79,2000
+gym2-1,Blaine's Arcanine,Pokémon,Stage 1,Stage 1,Fire,Fire,90.0,Blaine's Growlithe,Rare Holo,Ken Sugimori,Unknown,59.0,3.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,290.0,1stEditionHolofoil,86.64,111.32,2000
+gym2-2,Blaine's Charizard,Pokémon,Stage 2,Stage 2,Fire,Fire,100.0,Blaine's Charmeleon,Rare Holo,Ken Sugimori,Unknown,6.0,3.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1025.58,851.39,2000
+gym2-3,Brock's Ninetales,Pokémon,Stage 1,Stage 1,Fire,Fire,70.0,Brock's Vulpix,Rare Holo,Ken Sugimori,Unknown,38.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,147.39,1stEditionHolofoil,50.76,38.13,2000
+gym2-4,Erika's Venusaur,Pokémon,Stage 2,Stage 2,Grass,Grass,90.0,Erika's Ivysaur,Rare Holo,Ken Sugimori,Unknown,3.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,265.75,1stEditionHolofoil,117.67,121.66,2000
+gym2-5,Giovanni's Gyarados,Pokémon,Stage 1,Stage 1,Water,Water,90.0,Giovanni's Magikarp,Rare Holo,Ken Sugimori,Unknown,130.0,3.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,352.24,1stEditionHolofoil,76.53,513.24,2000
+gym2-6,Giovanni's Machamp,Pokémon,Stage 2,Stage 2,Fighting,Fighting,100.0,Giovanni's Machoke,Rare Holo,Ken Sugimori,Unknown,68.0,3.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,105.66,1stEditionHolofoil,69.72,97.11,2000
+gym2-7,Giovanni's Nidoking,Pokémon,Stage 2,Stage 2,Grass,Grass,120.0,Giovanni's Nidorino,Rare Holo,Ken Sugimori,Unknown,34.0,3.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,189.25,1stEditionHolofoil,155.95,93.16,2000
+gym2-8,Giovanni's Persian,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Giovanni's Meowth,Rare Holo,Ken Sugimori,Unknown,53.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,162.99,1stEditionHolofoil,36.93,43.5,2000
+gym2-9,Koga's Beedrill,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Koga's Kakuna,Rare Holo,Ken Sugimori,Unknown,15.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,112.67,1stEditionHolofoil,29.37,26.85,2000
+gym2-10,Koga's Ditto,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Rare Holo,Ken Sugimori,Unknown,132.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,100.58,1stEditionHolofoil,58.08,55.85,2000
+gym2-11,Lt. Surge's Raichu,Pokémon,Stage 1,Stage 1,Lightning,Lightning,80.0,Lt. Surge's Pikachu,Rare Holo,Ken Sugimori,Unknown,26.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,144.82,1stEditionHolofoil,52.67,74.58,2000
+gym2-12,Misty's Golduck,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Misty's Psyduck,Rare Holo,Ken Sugimori,Unknown,55.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,99.14,1stEditionHolofoil,49.87,39.36,2000
+gym2-13,Misty's Gyarados,Pokémon,Stage 1,Stage 1,Water,Water,100.0,Misty's Magikarp,Rare Holo,Ken Sugimori,Unknown,130.0,3.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,257.19,1stEditionHolofoil,218.79,211.16,2000
+gym2-14,Rocket's Mewtwo,Pokémon,Basic,Basic,Psychic,Psychic,70.0,,Rare Holo,Shin-ichi Yoshida,Unknown,150.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,450.96,1stEditionHolofoil,164.82,97.93,2000
+gym2-15,Rocket's Zapdos,Pokémon,Basic,Basic,Lightning,Lightning,70.0,,Rare Holo,Shin-ichi Yoshida,Unknown,145.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,201.77,1stEditionHolofoil,228.88,345.25,2000
+gym2-16,Sabrina's Alakazam,Pokémon,Stage 2,Stage 2,Psychic,Psychic,80.0,Sabrina's Kadabra,Rare Holo,Ken Sugimori,Unknown,65.0,3.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,258.14,1stEditionHolofoil,55.47,66.81,2000
+gym2-17,Blaine,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,67.54,1stEditionHolofoil,58.94,75.52,2000
+gym2-18,Giovanni,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,97.77,1stEditionHolofoil,76.14,77.0,2000
+gym2-19,Koga,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,43.76,1stEditionHolofoil,60.17,63.62,2000
+gym2-20,Sabrina,Trainer,Unknown,,Unknown,,,,Rare Holo,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,100.41,1stEditionHolofoil,89.2,86.7,2000
+gym2-21,Blaine's Ninetales,Pokémon,Stage 1,Stage 1,Fire,Fire,60.0,Blaine's Vulpix,Rare,Ken Sugimori,Unknown,38.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,43.49,55.43,2000
+gym2-22,Brock's Dugtrio,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Brock's Diglett,Rare,Ken Sugimori,Unknown,51.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,6.94,6.04,2000
+gym2-23,Giovanni's Nidoqueen,Pokémon,Stage 2,Stage 2,Grass,Grass,100.0,Giovanni's Nidorina,Rare,Ken Sugimori,Unknown,31.0,3.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,13.0,15.58,2000
+gym2-24,Giovanni's Pinsir,Pokémon,Basic,Basic,Grass,Grass,70.0,,Rare,Ken Sugimori,Unknown,127.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,10.38,14.12,2000
+gym2-25,Koga's Arbok,Pokémon,Stage 1,Stage 1,Grass,Grass,90.0,Koga's Ekans,Rare,Ken Sugimori,Unknown,24.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,9.97,7.18,2000
+gym2-26,Koga's Muk,Pokémon,Stage 1,Stage 1,Grass,Grass,80.0,Koga's Grimer,Rare,Ken Sugimori,Unknown,89.0,3.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,23.45,15.32,2000
+gym2-27,Koga's Pidgeotto,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Koga's Pidgey,Rare,Ken Sugimori,Unknown,17.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,7.98,5.53,2000
+gym2-28,Lt. Surge's Jolteon,Pokémon,Stage 1,Stage 1,Lightning,Lightning,70.0,Lt. Surge's Eevee,Rare,Ken Sugimori,Unknown,135.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,40.3,54.93,2000
+gym2-29,Sabrina's Gengar,Pokémon,Stage 2,Stage 2,Psychic,Psychic,90.0,Sabrina's Haunter,Rare,Ken Sugimori,Unknown,94.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,126.15,125.54,2000
+gym2-30,Sabrina's Golduck,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Sabrina's Psyduck,Rare,Ken Sugimori,Unknown,55.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,11.38,9.66,2000
+gym2-31,Blaine's Charmeleon,Pokémon,Stage 1,Stage 1,Fire,Fire,70.0,Blaine's Charmander,Uncommon,Ken Sugimori,Unknown,5.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,5.1,4.21,2000
+gym2-32,Blaine's Dodrio,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Blaine's Doduo,Uncommon,Ken Sugimori,Unknown,85.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.28,5.05,2000
+gym2-33,Blaine's Rapidash,Pokémon,Stage 1,Stage 1,Fire,Fire,70.0,Blaine's Ponyta,Uncommon,Ken Sugimori,Unknown,78.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.23,2.7,2000
+gym2-34,Brock's Graveler,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Brock's Geodude,Uncommon,Atsuko Nishida,Unknown,75.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.25,3.44,2000
+gym2-35,Brock's Primeape,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Brock's Mankey,Uncommon,Ken Sugimori,Unknown,57.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.61,4.39,2000
+gym2-36,Brock's Sandslash,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Brock's Sandshrew,Uncommon,Atsuko Nishida,Unknown,28.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.62,3.15,2000
+gym2-37,Brock's Vulpix,Pokémon,Basic,Basic,Fire,Fire,50.0,,Uncommon,Ken Sugimori,Unknown,37.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,5.82,4.8,2000
+gym2-38,Erika's Bellsprout,Pokémon,Basic,Basic,Grass,Grass,40.0,,Uncommon,Ken Sugimori,Unknown,69.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.96,3.14,2000
+gym2-39,Erika's Bulbasaur,Pokémon,Basic,Basic,Grass,Grass,50.0,,Uncommon,Ken Sugimori,Unknown,1.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,9.63,9.71,2000
+gym2-40,Erika's Clefairy,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Uncommon,Atsuko Nishida,Unknown,35.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,4.34,4.67,2000
+gym2-41,Erika's Ivysaur,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Erika's Bulbasaur,Uncommon,Ken Sugimori,Unknown,2.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,7.35,5.87,2000
+gym2-42,Giovanni's Machoke,Pokémon,Stage 1,Stage 1,Fighting,Fighting,80.0,Giovanni's Machop,Uncommon,Ken Sugimori,Unknown,67.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.85,3.55,2000
+gym2-43,Giovanni's Meowth,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Uncommon,Atsuko Nishida,Unknown,52.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,4.44,3.14,2000
+gym2-44,Giovanni's Nidorina,Pokémon,Stage 1,Stage 1,Grass,Grass,80.0,Giovanni's Nidoran ♀,Uncommon,Ken Sugimori,Unknown,30.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.94,2.63,2000
+gym2-45,Giovanni's Nidorino,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Giovanni's Nidoran ♂,Uncommon,Ken Sugimori,Unknown,33.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.33,2.57,2000
+gym2-46,Koga's Golbat,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Koga's Zubat,Uncommon,Ken Sugimori,Unknown,42.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.42,3.79,2000
+gym2-47,Koga's Kakuna,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Koga's Weedle,Uncommon,Ken Sugimori,Unknown,14.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.49,2.36,2000
+gym2-48,Koga's Koffing,Pokémon,Basic,Basic,Grass,Grass,50.0,,Uncommon,Ken Sugimori,Unknown,109.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.24,2.1,2000
+gym2-49,Koga's Pidgey,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Uncommon,Atsuko Nishida,Unknown,16.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,4.6,5.53,2000
+gym2-50,Koga's Weezing,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Koga's Koffing,Uncommon,Ken Sugimori,Unknown,110.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.57,3.5,2000
+gym2-51,Lt. Surge's Eevee,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Uncommon,Ken Sugimori,Unknown,133.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,10.79,9.67,2000
+gym2-52,Lt. Surge's Electrode,Pokémon,Stage 1,Stage 1,Lightning,Lightning,70.0,Lt. Surge's Voltorb,Uncommon,Ken Sugimori,Unknown,101.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.3,2.94,2000
+gym2-53,Lt. Surge's Raticate,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Lt. Surge's Rattata,Uncommon,Ken Sugimori,Unknown,20.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.04,3.21,2000
+gym2-54,Misty's Dewgong,Pokémon,Stage 1,Stage 1,Water,Water,80.0,Misty's Seel,Uncommon,Ken Sugimori,Unknown,87.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,4.16,3.86,2000
+gym2-55,Sabrina's Haunter,Pokémon,Stage 1,Stage 1,Psychic,Psychic,70.0,Sabrina's Gastly,Uncommon,Ken Sugimori,Unknown,93.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,6.11,13.3,2000
+gym2-56,Sabrina's Hypno,Pokémon,Stage 1,Stage 1,Psychic,Psychic,70.0,Sabrina's Drowzee,Uncommon,Ken Sugimori,Unknown,97.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,5.2,4.77,2000
+gym2-57,Sabrina's Jynx,Pokémon,Basic,Basic,Psychic,Psychic,60.0,,Uncommon,Atsuko Nishida,Unknown,124.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.84,2.87,2000
+gym2-58,Sabrina's Kadabra,Pokémon,Stage 1,Stage 1,Psychic,Psychic,70.0,Sabrina's Abra,Uncommon,Ken Sugimori,Unknown,64.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.38,3.67,2000
+gym2-59,Sabrina's Mr. Mime,Pokémon,Basic,Basic,Psychic,Psychic,60.0,,Uncommon,Ken Sugimori,Unknown,122.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,4.14,3.66,2000
+gym2-60,Blaine's Charmander,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Ken Sugimori,Unknown,4.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.46,4.06,2000
+gym2-61,Blaine's Doduo,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Ken Sugimori,Unknown,84.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.44,1.6,2000
+gym2-62,Blaine's Growlithe,Pokémon,Basic,Basic,Fire,Fire,60.0,,Common,Ken Sugimori,Unknown,58.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.37,1.35,2000
+gym2-63,Blaine's Mankey,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Atsuko Nishida,Unknown,56.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.24,1.37,2000
+gym2-64,Blaine's Ponyta,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Ken Sugimori,Unknown,77.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.98,1.25,2000
+gym2-65,Blaine's Rhyhorn,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Common,Ken Sugimori,Unknown,111.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.77,1.6,2000
+gym2-66,Blaine's Vulpix,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Ken Sugimori,Unknown,37.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.71,1.91,2000
+gym2-67,Brock's Diglett,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Ken Sugimori,Unknown,50.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.99,0.99,2000
+gym2-68,Brock's Geodude,Pokémon,Basic,Basic,Fighting,Fighting,50.0,,Common,Ken Sugimori,Unknown,74.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.44,1.39,2000
+gym2-69,Erika's Jigglypuff,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Ken Sugimori,Unknown,39.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.41,2.77,2000
+gym2-70,Erika's Oddish,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,43.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.08,2.47,2000
+gym2-71,Erika's Paras,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Ken Sugimori,Unknown,46.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.96,1.31,2000
+gym2-72,Giovanni's Machop,Pokémon,Basic,Basic,Fighting,Fighting,50.0,,Common,Ken Sugimori,Unknown,66.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.07,1.28,2000
+gym2-73,Giovanni's Magikarp,Pokémon,Basic,Basic,Water,Water,30.0,,Common,Ken Sugimori,Unknown,129.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,4.0,4.12,2000
+gym2-74,Giovanni's Meowth,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Ken Sugimori,Unknown,52.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.45,1.97,2000
+gym2-75,Giovanni's Nidoran ♀,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Ken Sugimori,Unknown,29.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.92,0.67,2000
+gym2-76,Giovanni's Nidoran ♂,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,32.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.09,0.76,2000
+gym2-77,Koga's Ekans,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Ken Sugimori,Unknown,23.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.79,0.55,2000
+gym2-78,Koga's Grimer,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Ken Sugimori,Unknown,88.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.93,1.06,2000
+gym2-79,Koga's Koffing,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,109.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.92,1.05,2000
+gym2-80,Koga's Pidgey,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Ken Sugimori,Unknown,16.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.96,0.92,2000
+gym2-81,Koga's Tangela,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Atsuko Nishida,Unknown,114.0,2.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.26,1.17,2000
+gym2-82,Koga's Weedle,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,13.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.09,0.93,2000
+gym2-83,Koga's Zubat,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,41.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.15,1.25,2000
+gym2-84,Lt. Surge's Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Atsuko Nishida,Unknown,25.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,9.77,8.92,2000
+gym2-85,Lt. Surge's Rattata,Pokémon,Basic,Basic,Colorless,Colorless,30.0,,Common,Atsuko Nishida,Unknown,19.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.14,1.25,2000
+gym2-86,Lt. Surge's Voltorb,Pokémon,Basic,Basic,Lightning,Lightning,50.0,,Common,Atsuko Nishida,Unknown,100.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.08,0.89,2000
+gym2-87,Misty's Horsea,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Ken Sugimori,Unknown,116.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.98,1.02,2000
+gym2-88,Misty's Magikarp,Pokémon,Basic,Basic,Water,Water,30.0,,Common,Ken Sugimori,Unknown,129.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.51,2.2,2000
+gym2-89,Misty's Poliwag,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Ken Sugimori,Unknown,60.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.07,1.0,2000
+gym2-90,Misty's Psyduck,Pokémon,Basic,Basic,Water,Water,60.0,,Common,Ken Sugimori,Unknown,54.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.97,4.53,2000
+gym2-91,Misty's Seel,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Ken Sugimori,Unknown,86.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.03,1.18,2000
+gym2-92,Misty's Staryu,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Ken Sugimori,Unknown,120.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.11,1.38,2000
+gym2-93,Sabrina's Abra,Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Common,Ken Sugimori,Unknown,63.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.33,1.68,2000
+gym2-94,Sabrina's Abra,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Ken Sugimori,Unknown,63.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.0,1.58,2000
+gym2-95,Sabrina's Drowzee,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Ken Sugimori,Unknown,96.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.98,0.69,2000
+gym2-96,Sabrina's Gastly,Pokémon,Basic,Basic,Psychic,Psychic,30.0,,Common,Ken Sugimori,Unknown,92.0,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.42,1.58,2000
+gym2-97,Sabrina's Gastly,Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Common,Atsuko Nishida,Unknown,92.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,4.44,3.44,2000
+gym2-98,Sabrina's Porygon,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Common,Ken Sugimori,Unknown,137.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.9,0.8,2000
+gym2-99,Sabrina's Psyduck,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Ken Sugimori,Unknown,54.0,1.0,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,4.76,4.02,2000
+gym2-100,Blaine,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,8.76,8.55,2000
+gym2-101,Brock's Protection,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,9.91,3.64,2000
+gym2-102,Chaos Gym,Trainer,Stadium,Stadium,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,10.91,10.48,2000
+gym2-103,Erika's Kindness,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,19.86,17.69,2000
+gym2-104,Giovanni,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,9.48,10.65,2000
+gym2-105,Giovanni's Last Resort,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,9.93,11.03,2000
+gym2-106,Koga,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,9.21,7.55,2000
+gym2-107,Lt. Surge's Secret Plan,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,8.46,7.86,2000
+gym2-108,Misty's Wish,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,13.83,13.04,2000
+gym2-109,Resistance Gym,Trainer,Stadium,Stadium,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,8.57,9.35,2000
+gym2-110,Sabrina,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,7.89,10.38,2000
+gym2-111,Blaine's Quiz #2,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,5.67,5.51,2000
+gym2-112,Blaine's Quiz #3,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,6.28,5.37,2000
+gym2-113,Cinnabar City Gym,Trainer,Stadium,Stadium,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2023/03/27,,,2.13,0.02,2000
+gym2-114,Fuchsia City Gym,Trainer,Stadium,Stadium,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.84,1.86,2000
+gym2-115,Koga's Ninja Trick,Trainer,Unknown,,Unknown,,,,Uncommon,Sumiyoshi Kizuki,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.2,3.38,2000
+gym2-116,Master Ball,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.62,3.75,2000
+gym2-117,Max Revive,Trainer,Unknown,,Unknown,,,,Uncommon,Hikaru Koike,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,3.79,3.73,2000
+gym2-118,Misty's Tears,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,15.89,14.87,2000
+gym2-119,Rocket's Minefield Gym,Trainer,Stadium,Stadium,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.9,2.18,2000
+gym2-120,Rocket's Secret Experiment,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,7.65,7.4,2000
+gym2-121,Sabrina's Psychic Control,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,4.01,5.23,2000
+gym2-122,Saffron City Gym,Trainer,Stadium,Stadium,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.25,1.18,2000
+gym2-123,Viridian City Gym,Trainer,Stadium,Stadium,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.96,1.25,2000
+gym2-124,Fervor,Trainer,Unknown,,Unknown,,,,Common,Ken Sugimori,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.72,1.03,2000
+gym2-125,Transparent Walls,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.99,0.92,2000
+gym2-126,Warp Point,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.18,1.46,2000
+gym2-127,Fighting Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.86,1.02,2000
+gym2-128,Fire Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.45,0.43,2000
+gym2-129,Grass Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.41,0.68,2000
+gym2-130,Lightning Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,2.01,1.4,2000
+gym2-131,Psychic Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,0.68,0.94,2000
+gym2-132,Water Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,gym2,Gym Challenge,Gym,2000-10-16,132,132,2026/03/26,,,1.49,1.92,2000
+neo1-1,Ampharos,Pokémon,Stage 2,Stage 2,Lightning,Lightning,80.0,Flaaffy,Rare Holo,Ken Sugimori,Unknown,181.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,61.02,1stEditionHolofoil,15.27,14.01,2000
+neo1-2,Azumarill,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Marill,Rare Holo,Ken Sugimori,Unknown,184.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,62.82,1stEditionHolofoil,30.72,22.49,2000
+neo1-3,Bellossom,Pokémon,Stage 2,Stage 2,Grass,Grass,70.0,Gloom,Rare Holo,Atsuko Nishida,Unknown,182.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,54.7,1stEditionHolofoil,29.39,42.2,2000
+neo1-4,Feraligatr,Pokémon,Stage 2,Stage 2,Water,Water,100.0,Croconaw,Rare Holo,Ken Sugimori,Unknown,160.0,3.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,200.0,1stEditionHolofoil,39.03,48.56,2000
+neo1-5,Feraligatr,Pokémon,Stage 2,Stage 2,Water,Water,120.0,Croconaw,Rare Holo,Ken Sugimori,Unknown,160.0,3.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,100.0,1stEditionHolofoil,68.92,33.84,2000
+neo1-6,Heracross,Pokémon,Basic,Basic,Grass,Grass,60.0,,Rare Holo,Ken Sugimori,Unknown,214.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,101.22,1stEditionHolofoil,16.41,29.74,2000
+neo1-7,Jumpluff,Pokémon,Stage 2,Stage 2,Grass,Grass,70.0,Skiploom,Rare Holo,Atsuko Nishida,Unknown,189.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,28.52,1stEditionHolofoil,7.38,7.25,2000
+neo1-8,Kingdra,Pokémon,Stage 2,Stage 2,Water,Water,90.0,Seadra,Rare Holo,Ken Sugimori,Unknown,230.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,50.16,1stEditionHolofoil,7.22,12.41,2000
+neo1-9,Lugia,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Rare Holo,Hironobu Yoshida,Unknown,249.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,1299.96,1stEditionHolofoil,212.25,291.82,2000
+neo1-10,Meganium,Pokémon,Stage 2,Stage 2,Grass,Grass,100.0,Bayleef,Rare Holo,Ken Sugimori,Unknown,154.0,3.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,157.5,1stEditionHolofoil,39.07,41.83,2000
+neo1-11,Meganium,Pokémon,Stage 2,Stage 2,Grass,Grass,100.0,Bayleef,Rare Holo,Ken Sugimori,Unknown,154.0,3.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,156.8,1stEditionHolofoil,36.15,45.18,2000
+neo1-12,Pichu,Pokémon,Baby,Baby,Lightning,Lightning,30.0,,Rare Holo,Ken Sugimori,Unknown,172.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,278.33,1stEditionHolofoil,105.37,60.15,2000
+neo1-13,Skarmory,Pokémon,Basic,Basic,Metal,Metal,60.0,,Rare Holo,Ken Sugimori,Unknown,227.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,68.88,1stEditionHolofoil,13.47,14.97,2000
+neo1-14,Slowking,Pokémon,Stage 1,Stage 1,Psychic,Psychic,80.0,Slowpoke,Rare Holo,Ken Sugimori,Unknown,199.0,3.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,173.88,1stEditionHolofoil,34.32,43.63,2000
+neo1-15,Steelix,Pokémon,Stage 1,Stage 1,Metal,Metal,110.0,Onix,Rare Holo,Ken Sugimori,Unknown,208.0,4.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,87.05,1stEditionHolofoil,19.01,65.76,2000
+neo1-16,Togetic,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Togepi,Rare Holo,Ken Sugimori,Unknown,176.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,76.92,1stEditionHolofoil,19.16,40.33,2000
+neo1-17,Typhlosion,Pokémon,Stage 2,Stage 2,Fire,Fire,100.0,Quilava,Rare Holo,Shin-ichi Yoshida,Unknown,157.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,321.0,1stEditionHolofoil,77.71,86.49,2000
+neo1-18,Typhlosion,Pokémon,Stage 2,Stage 2,Fire,Fire,100.0,Quilava,Rare Holo,Ken Sugimori,Unknown,157.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,212.37,1stEditionHolofoil,94.49,104.74,2000
+neo1-19,Metal Energy,Energy,Special,Special,Unknown,,,,Rare Holo,Milky Isobe,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,25.21,1stEditionHolofoil,7.68,5.59,2000
+neo1-20,Cleffa,Pokémon,Baby,Baby,Colorless,Colorless,30.0,,Rare,Kagemaru Himeno,Unknown,173.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,5.6,4.37,2000
+neo1-21,Donphan,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Phanpy,Rare,Ken Sugimori,Unknown,232.0,3.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,3.37,3.17,2000
+neo1-22,Elekid,Pokémon,Baby,Baby,Lightning,Lightning,30.0,,Rare,Miki Tanaka,Unknown,239.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.75,2.53,2000
+neo1-23,Magby,Pokémon,Baby,Baby,Fire,Fire,30.0,,Rare,Ken Sugimori,Unknown,240.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.57,1.26,2000
+neo1-24,Murkrow,Pokémon,Basic,Basic,Darkness,Darkness,50.0,,Rare,Shin-ichi Yoshida,Unknown,198.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.88,2.24,2000
+neo1-25,Sneasel,Pokémon,Basic,Basic,Darkness,Darkness,60.0,,Rare,Ken Sugimori,Unknown,215.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,3.79,7.5,2000
+neo1-26,Aipom,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Uncommon,Hironobu Yoshida,Unknown,190.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.84,1.97,2000
+neo1-27,Ariados,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Spinarak,Uncommon,Ken Sugimori,Unknown,168.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.77,0.8,2000
+neo1-28,Bayleef,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Chikorita,Uncommon,Ken Sugimori,Unknown,153.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.65,1.82,2000
+neo1-29,Bayleef,Pokémon,Stage 1,Stage 1,Grass,Grass,80.0,Chikorita,Uncommon,Ken Sugimori,Unknown,153.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.14,2.21,2000
+neo1-30,Clefairy,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Uncommon,Sumiyoshi Kizuki,Unknown,35.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.58,0.81,2000
+neo1-31,Croconaw,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Totodile,Uncommon,Ken Sugimori,Unknown,159.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.35,1.13,2000
+neo1-32,Croconaw,Pokémon,Stage 1,Stage 1,Water,Water,80.0,Totodile,Uncommon,Ken Sugimori,Unknown,159.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.58,2.3,2000
+neo1-33,Electabuzz,Pokémon,Basic,Basic,Lightning,Lightning,70.0,,Uncommon,Shin-ichi Yoshida,Unknown,125.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.99,0.76,2000
+neo1-34,Flaaffy,Pokémon,Stage 1,Stage 1,Lightning,Lightning,60.0,Mareep,Uncommon,Ken Sugimori,Unknown,180.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.25,1.52,2000
+neo1-35,Furret,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Sentret,Uncommon,Ken Sugimori,Unknown,162.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.85,1.74,2000
+neo1-36,Gloom,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Oddish,Uncommon,Mitsuhiro Arita,Unknown,44.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.59,1.53,2000
+neo1-37,Granbull,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Snubbull,Uncommon,Ken Sugimori,Unknown,210.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.44,1.39,2000
+neo1-38,Lanturn,Pokémon,Stage 1,Stage 1,Lightning,Lightning,70.0,Chinchou,Uncommon,Ken Sugimori,Unknown,171.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.96,2.38,2000
+neo1-39,Ledian,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Ledyba,Uncommon,Ken Sugimori,Unknown,166.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.95,0.63,2000
+neo1-40,Magmar,Pokémon,Basic,Basic,Fire,Fire,70.0,,Uncommon,Naoyo Kimura,Unknown,126.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.08,0.69,2000
+neo1-41,Miltank,Pokémon,Basic,Basic,Colorless,Colorless,70.0,,Uncommon,Ken Sugimori,Unknown,241.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.54,1.75,2000
+neo1-42,Noctowl,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Hoothoot,Uncommon,Ken Sugimori,Unknown,164.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.04,2.32,2000
+neo1-43,Phanpy,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Uncommon,Ken Sugimori,Unknown,231.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.15,1.07,2000
+neo1-44,Piloswine,Pokémon,Stage 1,Stage 1,Water,Water,80.0,Swinub,Uncommon,Ken Sugimori,Unknown,221.0,3.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.15,1.47,2000
+neo1-45,Quagsire,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Wooper,Uncommon,Atsuko Nishida,Unknown,195.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.46,1.36,2000
+neo1-46,Quilava,Pokémon,Stage 1,Stage 1,Fire,Fire,60.0,Cyndaquil,Uncommon,Ken Sugimori,Unknown,156.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.62,2.07,2000
+neo1-47,Quilava,Pokémon,Stage 1,Stage 1,Fire,Fire,70.0,Cyndaquil,Uncommon,Ken Sugimori,Unknown,156.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.8,1.69,2000
+neo1-48,Seadra,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Horsea,Uncommon,Shin-ichi Yoshida,Unknown,117.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.99,0.55,2000
+neo1-49,Skiploom,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Hoppip,Uncommon,Atsuko Nishida,Unknown,188.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.71,0.45,2000
+neo1-50,Sunflora,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Sunkern,Uncommon,Kagemaru Himeno,Unknown,192.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.34,5.09,2000
+neo1-51,Togepi,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Uncommon,Naoyo Kimura,Unknown,175.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,3.15,2.66,2000
+neo1-52,Xatu,Pokémon,Stage 1,Stage 1,Psychic,Psychic,80.0,Natu,Uncommon,Ken Sugimori,Unknown,178.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.05,1.33,2000
+neo1-53,Chikorita,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Naoyo Kimura,Unknown,152.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.22,1.84,2000
+neo1-54,Chikorita,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Ken Sugimori,Unknown,152.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.91,1.45,2000
+neo1-55,Chinchou,Pokémon,Basic,Basic,Lightning,Lightning,50.0,,Common,Ken Sugimori,Unknown,170.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.43,0.62,2000
+neo1-56,Cyndaquil,Pokémon,Basic,Basic,Fire,Fire,40.0,,Common,Ken Sugimori,Unknown,155.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.88,1.41,2000
+neo1-57,Cyndaquil,Pokémon,Basic,Basic,Fire,Fire,50.0,,Common,Shin-ichi Yoshida,Unknown,155.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.03,1.12,2000
+neo1-58,Girafarig,Pokémon,Basic,Basic,Psychic,Psychic,60.0,,Common,Ken Sugimori,Unknown,203.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.46,0.67,2000
+neo1-59,Gligar,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Common,Hironobu Yoshida,Unknown,207.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.72,0.79,2000
+neo1-60,Hoothoot,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Sumiyoshi Kizuki,Unknown,163.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.7,1.07,2000
+neo1-61,Hoppip,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Atsuko Nishida,Unknown,187.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.46,0.49,2000
+neo1-62,Horsea,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Miki Tanaka,Unknown,116.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.82,0.81,2000
+neo1-63,Ledyba,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Sumiyoshi Kizuki,Unknown,165.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.6,0.55,2000
+neo1-64,Mantine,Pokémon,Basic,Basic,Water,Water,60.0,,Common,Ken Sugimori,Unknown,226.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.41,0.52,2000
+neo1-65,Mareep,Pokémon,Basic,Basic,Lightning,Lightning,40.0,,Common,Ken Sugimori,Unknown,179.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.61,0.88,2000
+neo1-66,Marill,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Atsuko Nishida,Unknown,183.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.68,1.06,2000
+neo1-67,Natu,Pokémon,Basic,Basic,Psychic,Psychic,30.0,,Common,Ken Sugimori,Unknown,177.0,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.45,0.46,2000
+neo1-68,Oddish,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Sumiyoshi Kizuki,Unknown,43.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.56,0.49,2000
+neo1-69,Onix,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Common,Mitsuhiro Arita,Unknown,95.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.92,0.74,2000
+neo1-70,Pikachu,Pokémon,Basic,Basic,Lightning,Lightning,50.0,,Common,Naoyo Kimura,Unknown,25.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,3.1,5.4,2000
+neo1-71,Sentret,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Common,Ken Sugimori,Unknown,161.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.78,0.68,2000
+neo1-72,Shuckle,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Ken Sugimori,Unknown,213.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.73,0.62,2000
+neo1-73,Slowpoke,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Common,Tomokazu Komiya,Unknown,79.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.19,1.2,2000
+neo1-74,Snubbull,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Mitsuhiro Arita,Unknown,209.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.51,0.38,2000
+neo1-75,Spinarak,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Ken Sugimori,Unknown,167.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.54,0.36,2000
+neo1-76,Stantler,Pokémon,Basic,Basic,Colorless,Colorless,60.0,,Common,Ken Sugimori,Unknown,234.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.58,0.79,2000
+neo1-77,Sudowoodo,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Common,Ken Sugimori,Unknown,185.0,3.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.83,0.41,2000
+neo1-78,Sunkern,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Kagemaru Himeno,Unknown,191.0,2.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.68,0.67,2000
+neo1-79,Swinub,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Ken Sugimori,Unknown,220.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.54,0.66,2000
+neo1-80,Totodile,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Ken Sugimori,Unknown,158.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.59,1.17,2000
+neo1-81,Totodile,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Hironobu Yoshida,Unknown,158.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.96,1.9,2000
+neo1-82,Wooper,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Miki Tanaka,Unknown,194.0,1.0,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.58,0.73,2000
+neo1-83,Arcade Game,Trainer,Goldenrod Game Corner,Goldenrod Game Corner,Unknown,,,,Rare,"K. Hoshiba, CR CG gangs",Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.19,1.92,2000
+neo1-84,Ecogym,Trainer,Stadium,Stadium,Unknown,,,,Rare,"Shin-ichi Yoshikawa, CR CG gangs",Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.3,2.83,2000
+neo1-85,Energy Charge,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.79,1.82,2000
+neo1-86,Focus Band,Trainer,Pokémon Tool,Pokémon Tool,Unknown,,,,Rare,Tomokazu Komiya,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,6.49,5.97,2000
+neo1-87,Mary,Trainer,Unknown,,Unknown,,,,Rare,Ken Sugimori,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.58,1.73,2000
+neo1-88,PokéGear,Trainer,Unknown,,Unknown,,,,Rare,"Katsura Tabata, CR CG gangs",Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.21,2.42,2000
+neo1-89,Super Energy Retrieval,Trainer,Unknown,,Unknown,,,,Rare,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.59,1.89,2000
+neo1-90,Time Capsule,Trainer,Unknown,,Unknown,,,,Rare,"""Big Mama"" Tagawa, CR CG gangs",Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.17,1.53,2000
+neo1-91,Bill's Teleporter,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.82,0.91,2000
+neo1-92,Card-Flip Game,Trainer,Goldenrod Game Corner,Goldenrod Game Corner,Unknown,,,,Uncommon,"K. Hoshiba, CR CG gangs",Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.91,0.92,2000
+neo1-93,Gold Berry,Trainer,Pokémon Tool,Pokémon Tool,Unknown,,,,Uncommon,"Ryuta Kusumi, CR CG gangs",Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.45,1.37,2000
+neo1-94,Miracle Berry,Trainer,Pokémon Tool,Pokémon Tool,Unknown,,,,Uncommon,"Yousuke Hirata, CR CG gangs",Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.87,0.73,2000
+neo1-95,New Pokédex,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.79,0.67,2000
+neo1-96,Professor Elm,Trainer,Unknown,,Unknown,,,,Uncommon,Ken Sugimori,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.6,0.59,2000
+neo1-97,Sprout Tower,Trainer,Stadium,Stadium,Unknown,,,,Uncommon,"Hiromichi Sugiyama, CR CG gangs",Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,1.42,1.92,2000
+neo1-98,Super Scoop Up,Trainer,Unknown,,Unknown,,,,Uncommon,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.86,1.07,2000
+neo1-99,Berry,Trainer,Pokémon Tool,Pokémon Tool,Unknown,,,,Common,"Yousuke Hirata, CR CG gangs",Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.38,0.37,2000
+neo1-100,Double Gust,Trainer,Unknown,,Unknown,,,,Common,Tomokazu Komiya,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.83,0.7,2000
+neo1-101,Moo-Moo Milk,Trainer,Unknown,,Unknown,,,,Common,Tomokazu Komiya,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.43,0.49,2000
+neo1-102,Pokémon March,Trainer,Unknown,,Unknown,,,,Common,Tomokazu Komiya,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.76,0.75,2000
+neo1-103,Super Rod,Trainer,Unknown,,Unknown,,,,Common,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.35,0.25,2000
+neo1-104,Darkness Energy,Energy,Special,Special,Unknown,,,,Rare,Milky Isobe,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.86,2.77,2000
+neo1-105,Recycle Energy,Energy,Special,Special,Unknown,,,,Rare,Hideki Kazama,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,2.76,3.22,2000
+neo1-106,Fighting Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.53,0.83,2000
+neo1-107,Fire Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.45,0.52,2000
+neo1-108,Grass Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.36,0.9,2000
+neo1-109,Lightning Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.35,0.39,2000
+neo1-110,Psychic Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.41,0.52,2000
+neo1-111,Water Energy,Energy,Basic,Basic,Unknown,,,,Unknown,Keiji Kinebuchi,Unknown,,,neo1,Neo Genesis,Neo,2000-12-16,111,111,2026/03/26,,,0.26,0.34,2000
+neo2-1,Espeon,Pokémon,Stage 1,Stage 1,Psychic,Psychic,80.0,Eevee,Rare Holo,Atsuko Nishida,Unknown,196.0,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,70.61,111.3,2001
+neo2-2,Forretress,Pokémon,Stage 1,Stage 1,Metal,Metal,80.0,Pineco,Rare Holo,CR CG gangs,Unknown,205.0,3.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,63.64,1stEditionHolofoil,16.54,14.44,2001
+neo2-3,Hitmontop,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Rare Holo,Sumiyoshi Kizuki,Unknown,237.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,84.95,1stEditionHolofoil,13.36,8.15,2001
+neo2-4,Houndoom,Pokémon,Stage 1,Stage 1,Darkness,Darkness,70.0,Houndour,Rare Holo,Shin-ichi Yoshida,Unknown,229.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,165.03,1stEditionHolofoil,26.48,5.82,2001
+neo2-5,Houndour,Pokémon,Basic,Basic,Fire,Fire,50.0,,Rare Holo,Aya Kusube,Unknown,228.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,139.24,1stEditionHolofoil,34.09,30.37,2001
+neo2-6,Kabutops,Pokémon,Stage 2,Stage 2,Water,Water,90.0,Kabuto,Rare Holo,Kimiya Masago,Unknown,141.0,2.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,132.0,1stEditionHolofoil,43.09,54.39,2001
+neo2-7,Magnemite,Pokémon,Basic,Basic,Metal,Metal,40.0,,Rare Holo,"K. Hoshiba, CR CG gangs",Unknown,81.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,73.09,1stEditionHolofoil,13.82,65.85,2001
+neo2-8,Politoed,Pokémon,Stage 2,Stage 2,Water,Water,100.0,Poliwhirl,Rare Holo,Tomokazu Komiya,Unknown,186.0,3.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,161.57,1stEditionHolofoil,37.14,33.2,2001
+neo2-9,Poliwrath,Pokémon,Stage 2,Stage 2,Fighting,Fighting,90.0,Poliwhirl,Rare Holo,Shin-ichi Yoshida,Unknown,62.0,2.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,76.39,1stEditionHolofoil,17.19,19.84,2001
+neo2-10,Scizor,Pokémon,Stage 1,Stage 1,Metal,Metal,80.0,Scyther,Rare Holo,Kimiya Masago,Unknown,212.0,2.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,30.38,29.97,2001
+neo2-11,Smeargle,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Rare Holo,Hironobu Yoshida,Unknown,235.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,113.32,1stEditionHolofoil,20.5,785.88,2001
+neo2-12,Tyranitar,Pokémon,Stage 2,Stage 2,Darkness,Darkness,100.0,Pupitar,Rare Holo,Hironobu Yoshida,Unknown,248.0,3.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,400.49,1stEditionHolofoil,82.99,41.55,2001
+neo2-13,Umbreon,Pokémon,Stage 1,Stage 1,Darkness,Darkness,80.0,Eevee,Rare Holo,Kimiya Masago,Unknown,197.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,437.52,225.62,2001
+neo2-14,Unown [A],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Rare Holo,CR CG gangs,Unknown,201.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,71.62,1stEditionHolofoil,14.04,11.45,2001
+neo2-15,Ursaring,Pokémon,Stage 1,Stage 1,Colorless,Colorless,80.0,Teddiursa,Rare Holo,Naoyo Kimura,Unknown,217.0,3.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,71.56,1stEditionHolofoil,21.12,20.38,2001
+neo2-16,Wobbuffet,Pokémon,Basic,Basic,Psychic,Psychic,90.0,,Rare Holo,Hironobu Yoshida,Unknown,202.0,3.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,81.26,1stEditionHolofoil,16.09,20.52,2001
+neo2-17,Yanma,Pokémon,Basic,Basic,Grass,Grass,60.0,,Rare Holo,Atsuko Nishida,Unknown,193.0,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,86.85,1stEditionHolofoil,10.52,48.6,2001
+neo2-18,Beedrill,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Kakuna,Rare,Aya Kusube,Unknown,15.0,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,8.73,7.98,2001
+neo2-19,Butterfree,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Metapod,Rare,Atsuko Nishida,Unknown,12.0,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,2.67,1.97,2001
+neo2-20,Espeon,Pokémon,Stage 1,Stage 1,Psychic,Psychic,70.0,Eevee,Rare,Naoyo Kimura,Unknown,196.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,9.86,13.05,2001
+neo2-21,Forretress,Pokémon,Stage 1,Stage 1,Metal,Metal,80.0,Pineco,Rare,CR CG gangs,Unknown,205.0,3.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,4.26,4.67,2001
+neo2-22,Hitmontop,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Rare,Sumiyoshi Kizuki,Unknown,237.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,4.92,4.46,2001
+neo2-23,Houndoom,Pokémon,Stage 1,Stage 1,Darkness,Darkness,70.0,Houndour,Rare,Shin-ichi Yoshida,Unknown,229.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,6.58,5.9,2001
+neo2-24,Houndour,Pokémon,Basic,Basic,Fire,Fire,50.0,,Rare,Aya Kusube,Unknown,228.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,11.51,11.76,2001
+neo2-25,Kabutops,Pokémon,Stage 2,Stage 2,Water,Water,90.0,Kabuto,Rare,Kimiya Masago,Unknown,141.0,2.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,8.28,9.92,2001
+neo2-26,Magnemite,Pokémon,Basic,Basic,Metal,Metal,40.0,,Rare,"K. Hoshiba, CR CG gangs",Unknown,81.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,4.5,5.79,2001
+neo2-27,Politoed,Pokémon,Stage 2,Stage 2,Water,Water,100.0,Poliwhirl,Rare,Tomokazu Komiya,Unknown,186.0,3.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,7.04,7.17,2001
+neo2-28,Poliwrath,Pokémon,Stage 2,Stage 2,Fighting,Fighting,90.0,Poliwhirl,Rare,Shin-ichi Yoshida,Unknown,62.0,2.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,4.78,5.66,2001
+neo2-29,Scizor,Pokémon,Stage 1,Stage 1,Metal,Metal,80.0,Scyther,Rare,Kimiya Masago,Unknown,212.0,2.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,8.46,7.75,2001
+neo2-30,Smeargle,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Rare,Hironobu Yoshida,Unknown,235.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,6.45,5.03,2001
+neo2-31,Tyranitar,Pokémon,Stage 2,Stage 2,Darkness,Darkness,100.0,Pupitar,Rare,Hironobu Yoshida,Unknown,248.0,3.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,15.52,12.28,2001
+neo2-32,Umbreon,Pokémon,Stage 1,Stage 1,Darkness,Darkness,70.0,Eevee,Rare,Naoyo Kimura,Unknown,197.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,40.6,36.61,2001
+neo2-33,Unown [A],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Rare,CR CG gangs,Unknown,201.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,6.99,8.44,2001
+neo2-34,Ursaring,Pokémon,Stage 1,Stage 1,Colorless,Colorless,80.0,Teddiursa,Rare,Naoyo Kimura,Unknown,217.0,3.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,5.16,6.11,2001
+neo2-35,Wobbuffet,Pokémon,Basic,Basic,Psychic,Psychic,90.0,,Rare,Hironobu Yoshida,Unknown,202.0,3.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,9.43,6.13,2001
+neo2-36,Yanma,Pokémon,Basic,Basic,Grass,Grass,60.0,,Rare,Atsuko Nishida,Unknown,193.0,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,7.49,0.64,2001
+neo2-37,Corsola,Pokémon,Basic,Basic,Water,Water,50.0,,Uncommon,Yuka Morii,Unknown,222.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,1.4,1.3,2001
+neo2-38,Eevee,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Uncommon,Aya Kusube,Unknown,133.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,4.03,3.71,2001
+neo2-39,Houndour,Pokémon,Basic,Basic,Darkness,Darkness,40.0,,Uncommon,Shin-ichi Yoshida,Unknown,228.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,1.62,2.25,2001
+neo2-40,Igglybuff,Pokémon,Baby,Baby,Colorless,Colorless,30.0,,Uncommon,Miki Tanaka,Unknown,174.0,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,2.1,1.7,2001
+neo2-41,Kakuna,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Weedle,Uncommon,Yukiko Baba,Unknown,14.0,2.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.7,0.69,2001
+neo2-42,Metapod,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Caterpie,Uncommon,Sumiyoshi Kizuki,Unknown,11.0,2.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.76,0.59,2001
+neo2-43,Omastar,Pokémon,Stage 2,Stage 2,Fighting,Fighting,80.0,Omanyte,Uncommon,Shin-ichi Yoshida,Unknown,139.0,2.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.62,0.76,2001
+neo2-44,Poliwhirl,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Poliwag,Uncommon,Kagemaru Himeno,Unknown,61.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.93,0.02,2001
+neo2-45,Pupitar,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Larvitar,Uncommon,Hironobu Yoshida,Unknown,247.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.64,0.81,2001
+neo2-46,Scyther,Pokémon,Basic,Basic,Grass,Grass,60.0,,Uncommon,Kimiya Masago,Unknown,123.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,1.36,0.82,2001
+neo2-47,Unown [D],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Uncommon,CR CG gangs,Unknown,201.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,1.06,1.26,2001
+neo2-48,Unown [F],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Uncommon,CR CG gangs,Unknown,201.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,1.64,1.2,2001
+neo2-49,Unown [M],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Uncommon,CR CG gangs,Unknown,201.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.91,0.77,2001
+neo2-50,Unown [N],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Uncommon,CR CG gangs,Unknown,201.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,1.33,0.56,2001
+neo2-51,Unown [U],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Uncommon,CR CG gangs,Unknown,201.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,1.55,0.87,2001
+neo2-52,Xatu,Pokémon,Stage 1,Stage 1,Psychic,Psychic,70.0,Natu,Uncommon,Sumiyoshi Kizuki,Unknown,178.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,1.25,1.2,2001
+neo2-53,Caterpie,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Yuka Morii,Unknown,10.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.44,0.65,2001
+neo2-54,Dunsparce,Pokémon,Basic,Basic,Colorless,Colorless,30.0,,Common,Yukiko Baba,Unknown,206.0,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.49,0.55,2001
+neo2-55,Hoppip,Pokémon,Basic,Basic,Grass,Grass,30.0,,Common,Kagemaru Himeno,Unknown,187.0,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.33,0.31,2001
+neo2-56,Kabuto,Pokémon,Stage 1,Stage 1,Water,Water,50.0,Mysterious Fossil,Common,Yuka Morii,Unknown,140.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.52,0.84,2001
+neo2-57,Larvitar,Pokémon,Basic,Basic,Fighting,Fighting,40.0,,Common,Hironobu Yoshida,Unknown,246.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.49,0.4,2001
+neo2-58,Mareep,Pokémon,Basic,Basic,Lightning,Lightning,50.0,,Common,Atsuko Nishida,Unknown,179.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.58,0.52,2001
+neo2-59,Natu,Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Common,Sumiyoshi Kizuki,Unknown,177.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.47,0.36,2001
+neo2-60,Omanyte,Pokémon,Stage 1,Stage 1,Fighting,Fighting,50.0,Mysterious Fossil,Common,Yuka Morii,Unknown,138.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.55,0.73,2001
+neo2-61,Pineco,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Tomokazu Komiya,Unknown,204.0,2.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.57,0.54,2001
+neo2-62,Poliwag,Pokémon,Basic,Basic,Water,Water,40.0,,Common,Aya Kusube,Unknown,60.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.57,0.67,2001
+neo2-63,Sentret,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Common,Sumiyoshi Kizuki,Unknown,161.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.34,0.61,2001
+neo2-64,Spinarak,Pokémon,Basic,Basic,Grass,Grass,50.0,,Common,Yukiko Baba,Unknown,167.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.49,0.56,2001
+neo2-65,Teddiursa,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Common,Miki Tanaka,Unknown,216.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.44,0.46,2001
+neo2-66,Tyrogue,Pokémon,Baby,Baby,Fighting,Fighting,30.0,,Common,Miki Tanaka,Unknown,236.0,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.39,0.68,2001
+neo2-67,Unown [E],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Common,CR CG gangs,Unknown,201.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.52,0.61,2001
+neo2-68,Unown [I],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Common,CR CG gangs,Unknown,201.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.49,0.63,2001
+neo2-69,Unown [O],Pokémon,Basic,Basic,Psychic,Psychic,40.0,,Common,CR CG gangs,Unknown,201.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.62,0.48,2001
+neo2-70,Weedle,Pokémon,Basic,Basic,Grass,Grass,40.0,,Common,Miki Tanaka,Unknown,13.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.42,0.51,2001
+neo2-71,Wooper,Pokémon,Basic,Basic,Water,Water,50.0,,Common,Yukiko Baba,Unknown,194.0,1.0,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.53,0.74,2001
+neo2-72,Fossil Egg,Trainer,Unknown,,Unknown,,,,Uncommon,"K. Hoshiba, CR CG gangs",Unknown,,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.42,0.79,2001
+neo2-73,Hyper Devolution Spray,Trainer,Unknown,,Unknown,,,,Uncommon,"K. Hoshiba, CR CG gangs",Unknown,,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.56,0.52,2001
+neo2-74,Ruin Wall,Trainer,Unknown,,Unknown,,,,Uncommon,"""Big Mama"" Tagawa, CR CG gangs",Unknown,,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.53,0.56,2001
+neo2-75,Energy Ark,Trainer,Unknown,,Unknown,,,,Common,"""Big Mama"" Tagawa & Benimaru Itoh",Unknown,,,neo2,Neo Discovery,Neo,2001-06-01,75,75,2026/03/26,,,0.24,0.27,2001
+si1-1,Mew,Pokémon,Basic,Basic,Psychic,Psychic,30.0,,Unknown,Keiko Fukuyama,Unknown,151.0,,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,331.62,reverseHolofoil,324.1,217.93,2001
+si1-2,Pidgeot,Pokémon,Stage 2,Stage 2,Colorless,Colorless,70.0,Pidgeotto,Unknown,Keiko Fukuyama,Unknown,18.0,,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,33.73,normal,20.44,19.89,2001
+si1-3,Onix,Pokémon,Basic,Basic,Fighting,Fighting,90.0,,Unknown,Keiko Fukuyama,Unknown,95.0,3.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,35.8,normal,21.66,19.96,2001
+si1-4,Togepi,Pokémon,Basic,Basic,Colorless,Colorless,40.0,,Unknown,Keiko Fukuyama,Unknown,175.0,1.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,123.3,reverseHolofoil,64.66,62.86,2001
+si1-5,Ivysaur,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Bulbasaur,Unknown,Keiko Fukuyama,Unknown,2.0,1.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,40.53,normal,24.53,26.73,2001
+si1-6,Raticate,Pokémon,Stage 1,Stage 1,Colorless,Colorless,60.0,Rattata,Unknown,Keiko Fukuyama,Unknown,20.0,,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,27.57,normal,18.93,16.19,2001
+si1-7,Ledyba,Pokémon,Basic,Basic,Grass,Grass,40.0,,Unknown,Keiko Fukuyama,Unknown,165.0,1.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,57.7,reverseHolofoil,16.0,25.25,2001
+si1-8,Jigglypuff,Pokémon,Basic,Basic,Colorless,Colorless,50.0,,Unknown,Keiko Fukuyama,Unknown,39.0,1.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,44.22,normal,25.58,25.54,2001
+si1-9,Butterfree,Pokémon,Stage 2,Stage 2,Grass,Grass,80.0,Metapod,Unknown,Keiko Fukuyama,Unknown,12.0,1.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,35.71,normal,21.84,21.03,2001
+si1-10,Tentacruel,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Tentacool,Unknown,Naoyo Kimura,Unknown,73.0,1.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,37.99,normal,28.09,26.65,2001
+si1-11,Marill,Pokémon,Basic,Basic,Water,Water,40.0,,Unknown,Naoyo Kimura,Unknown,183.0,1.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,116.59,reverseHolofoil,25.65,59.16,2001
+si1-12,Lapras,Pokémon,Basic,Basic,Water,Water,70.0,,Unknown,Naoyo Kimura,Unknown,131.0,1.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,47.79,normal,94.84,63.51,2001
+si1-13,Exeggutor,Pokémon,Stage 1,Stage 1,Grass,Grass,70.0,Exeggcute,Unknown,Naoyo Kimura,Unknown,103.0,2.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,22.38,normal,21.49,20.89,2001
+si1-14,Slowking,Pokémon,Stage 1,Stage 1,Psychic,Psychic,70.0,Slowpoke,Unknown,Naoyo Kimura,Unknown,199.0,2.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,158.32,reverseHolofoil,85.89,112.24,2001
+si1-15,Wartortle,Pokémon,Stage 1,Stage 1,Water,Water,60.0,Squirtle,Unknown,Naoyo Kimura,Unknown,8.0,1.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,59.22,normal,38.99,35.27,2001
+si1-16,Lickitung,Pokémon,Basic,Basic,Colorless,Colorless,70.0,,Unknown,Naoyo Kimura,Unknown,108.0,2.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,31.28,normal,17.45,18.13,2001
+si1-17,Vileplume,Pokémon,Stage 2,Stage 2,Grass,Grass,70.0,Gloom,Unknown,Naoyo Kimura,Unknown,45.0,2.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,89.43,reverseHolofoil,29.89,38.24,2001
+si1-18,Primeape,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Mankey,Unknown,Naoyo Kimura,Unknown,57.0,1.0,si1,Southern Islands,Other,2001-07-31,18,18,2026/03/26,30.67,normal,69.31,34.13,2001
+neo3-1,Ampharos,Pokémon,Stage 2,Stage 2,Lightning,Lightning,90.0,Flaaffy,Rare Holo,Toshinao Aoki,Unknown,181.0,3.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,90.46,1stEditionHolofoil,46.31,41.08,2001
+neo3-2,Blissey,Pokémon,Stage 1,Stage 1,Colorless,Colorless,120.0,Chansey,Rare Holo,Yuka Morii,Unknown,242.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,175.0,1stEditionHolofoil,35.3,49.4,2001
+neo3-3,Celebi,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Rare Holo,Hironobu Yoshida,Unknown,251.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,144.1,1stEditionHolofoil,261.81,193.12,2001
+neo3-4,Crobat,Pokémon,Stage 2,Stage 2,Grass,Grass,90.0,Golbat,Rare Holo,Shin-ichi Yoshida,Unknown,169.0,,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,72.63,1stEditionHolofoil,43.28,33.52,2001
+neo3-5,Delibird,Pokémon,Basic,Basic,Colorless,Colorless,60.0,,Rare Holo,Tomokazu Komiya,Unknown,225.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,70.35,1stEditionHolofoil,82.9,45.72,2001
+neo3-6,Entei,Pokémon,Basic,Basic,Fire,Fire,80.0,,Rare Holo,Ken Sugimori,Unknown,244.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,324.68,1stEditionHolofoil,137.22,147.56,2001
+neo3-7,Ho-oh,Pokémon,Basic,Basic,Fire,Fire,90.0,,Rare Holo,Kimiya Masago,Unknown,250.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,350.0,1stEditionHolofoil,132.6,131.79,2001
+neo3-8,Houndoom,Pokémon,Stage 1,Stage 1,Darkness,Darkness,70.0,Houndour,Rare Holo,Mitsuhiro Arita,Unknown,229.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,83.86,82.2,2001
+neo3-9,Jumpluff,Pokémon,Stage 2,Stage 2,Grass,Grass,70.0,Skiploom,Rare Holo,Kagemaru Himeno,Unknown,189.0,,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,49.68,1stEditionHolofoil,25.89,21.5,2001
+neo3-10,Magneton,Pokémon,Stage 1,Stage 1,Metal,Metal,80.0,Magnemite,Rare Holo,"""Big Mama"" Tagawa, CR CG gangs",Unknown,82.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,33.5,1stEditionHolofoil,26.7,25.83,2001
+neo3-11,Misdreavus,Pokémon,Basic,Basic,Psychic,Psychic,50.0,,Rare Holo,Ken Sugimori,Unknown,200.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,136.62,1stEditionHolofoil,28.65,52.25,2001
+neo3-12,Porygon2,Pokémon,Stage 1,Stage 1,Colorless,Colorless,70.0,Porygon,Rare Holo,Keiji Kinebuchi,Unknown,233.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,97.0,1stEditionHolofoil,28.98,18.14,2001
+neo3-13,Raikou,Pokémon,Basic,Basic,Lightning,Lightning,80.0,,Rare Holo,Ken Sugimori,Unknown,243.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,500.0,1stEditionHolofoil,93.73,140.19,2001
+neo3-14,Suicune,Pokémon,Basic,Basic,Water,Water,70.0,,Rare Holo,Ken Sugimori,Unknown,245.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,461.45,1stEditionHolofoil,141.33,251.11,2001
+neo3-15,Aerodactyl,Pokémon,Stage 1,Stage 1,Fighting,Fighting,60.0,Mysterious Fossil,Rare,Shin-ichi Yoshida,Unknown,142.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,6.68,8.47,2001
+neo3-16,Celebi,Pokémon,Basic,Basic,Grass,Grass,50.0,,Rare,Sumiyoshi Kizuki,Unknown,251.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,7.95,8.69,2001
+neo3-17,Entei,Pokémon,Basic,Basic,Fire,Fire,60.0,,Rare,Naoyo Kimura,Unknown,244.0,,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,10.23,12.49,2001
+neo3-18,Ho-oh,Pokémon,Basic,Basic,Colorless,Colorless,90.0,,Rare,Aya Kusube,Unknown,250.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,18.47,22.93,2001
+neo3-19,Kingdra,Pokémon,Stage 2,Stage 2,Water,Water,90.0,Seadra,Rare,Mitsuhiro Arita,Unknown,230.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,6.14,6.02,2001
+neo3-20,Lugia,Pokémon,Basic,Basic,Psychic,Psychic,90.0,,Rare,Aya Kusube,Unknown,249.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,17.46,25.99,2001
+neo3-21,Raichu,Pokémon,Stage 1,Stage 1,Lightning,Lightning,80.0,Pikachu,Rare,Masako Yamashita,Unknown,26.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,13.89,16.83,2001
+neo3-22,Raikou,Pokémon,Basic,Basic,Lightning,Lightning,60.0,,Rare,Naoyo Kimura,Unknown,243.0,,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,11.34,14.78,2001
+neo3-23,Skarmory,Pokémon,Basic,Basic,Metal,Metal,60.0,,Rare,Aya Kusube,Unknown,227.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,6.63,5.65,2001
+neo3-24,Sneasel,Pokémon,Basic,Basic,Darkness,Darkness,60.0,,Rare,Sumiyoshi Kizuki,Unknown,215.0,,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,3.9,3.21,2001
+neo3-25,Starmie,Pokémon,Stage 1,Stage 1,Psychic,Psychic,70.0,Staryu,Rare,"Keita Komatsuya, CR CG gangs",Unknown,121.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,5.86,6.14,2001
+neo3-26,Sudowoodo,Pokémon,Basic,Basic,Fighting,Fighting,60.0,,Rare,Sumiyoshi Kizuki,Unknown,185.0,3.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,4.46,4.62,2001
+neo3-27,Suicune,Pokémon,Basic,Basic,Water,Water,60.0,,Rare,Naoyo Kimura,Unknown,245.0,,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,13.06,13.68,2001
+neo3-28,Flaaffy,Pokémon,Stage 1,Stage 1,Lightning,Lightning,70.0,Mareep,Uncommon,Toshinao Aoki,Unknown,180.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,1.33,1.13,2001
+neo3-29,Golbat,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Zubat,Uncommon,Masako Yamashita,Unknown,42.0,,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,0.91,0.96,2001
+neo3-30,Graveler,Pokémon,Stage 1,Stage 1,Fighting,Fighting,70.0,Geodude,Uncommon,Yukiko Baba,Unknown,75.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,0.88,0.55,2001
+neo3-31,Jynx,Pokémon,Basic,Basic,Water,Water,60.0,,Uncommon,Tomokazu Komiya,Unknown,124.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,2.57,2.43,2001
+neo3-32,Lanturn,Pokémon,Stage 1,Stage 1,Lightning,Lightning,80.0,Chinchou,Uncommon,Kagemaru Himeno,Unknown,171.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,0.92,0.65,2001
+neo3-33,Magcargo,Pokémon,Stage 1,Stage 1,Fire,Fire,80.0,Slugma,Uncommon,Shin-ichi Yoshida,Unknown,219.0,3.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,1.27,1.23,2001
+neo3-34,Octillery,Pokémon,Stage 1,Stage 1,Water,Water,80.0,Remoraid,Uncommon,Tomokazu Komiya,Unknown,224.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,1.72,1.75,2001
+neo3-35,Parasect,Pokémon,Stage 1,Stage 1,Grass,Grass,60.0,Paras,Uncommon,Atsuko Nishida,Unknown,47.0,2.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,1.06,0.83,2001
+neo3-36,Piloswine,Pokémon,Stage 1,Stage 1,Fighting,Fighting,90.0,Swinub,Uncommon,Atsuko Nishida,Unknown,221.0,3.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,1.02,1.15,2001
+neo3-37,Seaking,Pokémon,Stage 1,Stage 1,Water,Water,70.0,Goldeen,Uncommon,Miki Tanaka,Unknown,119.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,0.92,0.8,2001
+neo3-38,Stantler,Pokémon,Basic,Basic,Colorless,Colorless,60.0,,Uncommon,Yukiko Baba,Unknown,234.0,1.0,neo3,Neo Revelation,Neo,2001-09-21,66,64,2026/03/26,,,1.0,0.59,2001

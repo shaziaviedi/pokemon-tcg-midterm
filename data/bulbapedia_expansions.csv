@@ -1,0 +1,170 @@
+bulba_set_name,bulba_release_date,bulba_abbrev
+Base Set,1999-01-09,BS
+Jungle,1999-06-16,JU
+Fossil,1999-10-10,FO
+Base Set 2,2000-02-24,B2
+Team Rocket,2000-04-24,TR
+Gym Heroes,2000-08-14,G1
+Gym Challenge,2000-10-16,G2
+Neo Genesis,2000-12-16,N1
+Neo Discovery,2001-06-01,N2
+Neo Revelation,2001-09-21,N3
+Neo Destiny,2002-02-28,N4
+Legendary Collection,2002-05-24,LC
+Expedition Base Set,2002-09-15,EX
+Aquapolis,2003-01-15,AQ
+Skyridge,2003-05-12,SK
+EX Ruby & Sapphire,2003-07-18,RS
+EX Sandstorm,2003-09-18,SS
+EX Dragon,2003-11-24,DR
+EX Team Magma vs Team Aqua,2004-03-15,MA
+EX Hidden Legends,2004-06-14,HL
+EX FireRed & LeafGreen,2004-08-30,RG
+EX Team Rocket Returns,2004-11-08,TRR
+EX Deoxys,2005-02-14,DX
+EX Emerald,2005-05-09,EM
+EX Unseen Forces,2005-08-22,UF
+EX Delta Species,2005-10-31,DS
+EX Legend Maker,2006-02-13,LM
+EX Holon Phantoms,2006-05-03,HP
+EX Crystal Guardians,2006-08-30,CG
+EX Dragon Frontiers,2006-11-08,DF
+EX Power Keepers,2007-02-14,PK
+Diamond & Pearl,2007-05-23,DP
+Diamond & Pearl—Mysterious Treasures,2007-08-22,MT
+Diamond & Pearl—Secret Wonders,2007-11-07,SW
+Diamond & Pearl—Great Encounters,2008-02-13,GE
+Diamond & Pearl—Majestic Dawn,2008-05-21,MD
+Diamond & Pearl—Legends Awakened,2008-08-20,LA
+Diamond & Pearl—Stormfront,2008-11-05,SF
+Platinum,2009-02-11,PL
+Platinum—Rising Rivals,2009-05-16,RR
+Platinum—Supreme Victors,2009-08-19,SV
+Platinum—Arceus,2009-11-04,AR
+HeartGold & SoulSilver,2010-02-10,HS
+HS—Unleashed,2010-05-12,UL
+HS—Undaunted,2010-08-18,UD
+HS—Triumphant,2010-11-03,TM
+Pokémon TCG: Call of Legends,2011-02-09,CL
+Black & White,2011-04-25,BLW
+Black & White—Emerging Powers,2011-08-31,EPO
+Black & White—Noble Victories,2011-11-16,NVI
+Black & White—Next Destinies,2012-02-08,NXD
+Black & White—Dark Explorers,2012-05-09,DEX
+Black & White—Dragons Exalted,2012-08-15,DRX
+Dragon Vault,2012-10-05,DRV
+Black & White—Boundaries Crossed,2012-11-07,BCR
+Black & White—Plasma Storm,2013-02-06,PLS
+Black & White—Plasma Freeze,2013-05-08,PLF
+Black & White—Plasma Blast,2013-08-14,PLB
+Black & White—Legendary Treasures,2013-11-06,LTR
+XY—Kalos Starter Set,2013-11-08,KSS
+XY,2014-02-05,XY
+XY—Flashfire,2014-05-07,FLF
+XY—Furious Fists,2014-08-13,FFI
+XY—Phantom Forces,2014-11-05,PHF
+XY—Primal Clash,2015-02-04,PRC
+Double Crisis,2015-03-25,DCR
+XY—Roaring Skies,2015-05-06,ROS
+XY—Ancient Origins,2015-08-12,AOR
+XY—BREAKthrough,2015-11-04,BKT
+XY—BREAKpoint,2016-02-03,BKP
+Generations,2016-02-22,GEN
+XY—Fates Collide,2016-05-02,FCO
+XY—Steam Siege,2016-08-03,STS
+XY—Evolutions,2016-11-02,EVO
+Sun & Moon,2017-02-03,SUM
+Sun & Moon—Guardians Rising,2017-05-05,GRI
+Sun & Moon—Burning Shadows,2017-08-04,BUS
+Shining Legends,2017-10-06,SLG
+Sun & Moon—Crimson Invasion,2017-11-03,CIN
+Sun & Moon—Ultra Prism,2018-02-02,UPR
+Sun & Moon—Forbidden Light,2018-05-04,FLI
+Sun & Moon—Celestial Storm,2018-08-03,CES
+Dragon Majesty,2018-09-07,DRM
+Sun & Moon—Lost Thunder,2018-11-02,LOT
+Sun & Moon—Team Up,2019-02-01,TEU
+Detective Pikachu,2019-03-29,DET
+Sun & Moon—Unbroken Bonds,2019-05-03,UNB
+Sun & Moon—Unified Minds,2019-08-02,UNM
+Hidden Fates,2019-08-23,HIF
+Sun & Moon—Cosmic Eclipse,2019-11-01,CEC
+Sword & Shield,2020-02-07,SSH
+Sword & Shield—Rebel Clash,2020-05-01,RCL
+Sword & Shield—Darkness Ablaze,2020-08-14,DAA
+Champion's Path,2020-09-25,CPA
+Sword & Shield—Vivid Voltage,2020-11-13,VIV
+Shining Fates,2021-02-19,SHF
+Sword & Shield—Battle Styles,2021-03-19,BST
+Sword & Shield—Chilling Reign,2021-06-18,CRE
+Sword & Shield—Evolving Skies,2021-08-27,EVS
+Celebrations,2021-10-08,CEL
+Sword & Shield—Fusion Strike,2021-11-12,FST
+Sword & Shield—Brilliant Stars,2022-02-25,BRS
+Sword & Shield—Astral Radiance,2022-05-27,ASR
+Pokémon TCG: Pokémon GO,2022-07-01,PGO
+Sword & Shield—Lost Origin,2022-09-09,LOR
+Sword & Shield—Silver Tempest,2022-11-11,SIT
+Crown Zenith,2023-01-20,CRZ
+Scarlet & Violet,2023-03-31,SVI
+Scarlet & Violet—Paldea Evolved,2023-06-09,PAL
+Scarlet & Violet—Obsidian Flames,2023-08-11,OBF
+Scarlet & Violet—151,2023-09-22,MEW
+Scarlet & Violet—Paradox Rift,2023-11-03,PAR
+Scarlet & Violet—Paldean Fates,2024-01-26,PAF
+Scarlet & Violet—Temporal Forces,2024-03-22,TEF
+Scarlet & Violet—Twilight Masquerade,2024-05-24,TWM
+Scarlet & Violet—Shrouded Fable,2024-08-02,SFA
+Scarlet & Violet—Stellar Crown,2024-09-13,SCR
+Scarlet & Violet—Surging Sparks,2024-11-08,SSP
+Scarlet & Violet—Prismatic Evolutions,2025-01-17,PRE
+Scarlet & Violet—Journey Together,2025-03-28,JTG
+Scarlet & Violet—Destined Rivals,2025-05-30,DRI
+Scarlet & Violet—Black Bolt,2025-07-18,BLK
+Scarlet & Violet—White Flare,2025-07-18,WHT
+Mega Evolution,2025-09-26,MEG
+Mega Evolution—Phantasmal Flames,2025-11-14,PFL
+Mega Evolution—Ascended Heroes,2026-01-30,ASC
+Mega Evolution—Perfect Order,2026-03-27,POR
+Mega Evolution—Chaos Rising,2026-05-22,CRI
+SVE Basic Energies,2023-03-31,SVE
+MEE Basic Energies,2025-09-26,MEE
+McDonald's Collection 2011,2011-06-17,M11
+McDonald's Collection 2012,2012-06-15,M12
+McDonald's Collection 2013,2013-10-13,M13
+McDonald's Collection 2014,2014-05-23,M14
+McDonald's Collection 2015,2015-10-14,M15
+McDonald's Collection 2016,2016-08-19,M16
+McDonald's Collection 2017,,M17
+McDonald's Collection 2018,2018-10-16,M18
+McDonald's Collection 2019,2019-10-15,M19
+McDonald's Collection 2021,2021-02-09,M21
+McDonald's Collection 2022,2022-08-03,M22
+McDonald's Collection 2023,2023-07-27,M23
+McDonald's Collection 2024,2024-12-04,M24
+Trick or Trade 2022,2022-09-01,TT22
+Trick or Trade 2023,2023-09-01,TT23
+Trick or Trade 2024,2024-08-30,TT24
+POP Series 1,,POP1
+POP Series 2,,POP2
+POP Series 3,,POP3
+POP Series 4,,POP4
+POP Series 5,,POP5
+POP Series 6,,POP6
+POP Series 7,,POP7
+POP Series 8,,POP8
+POP Series 9,,POP9
+Play! Pokémon Prize Pack Series One,2022-11-09,PPS1
+Play! Pokémon Prize Pack Series Two,2023-01-19,PPS2
+Play! Pokémon Prize Pack Series Three,2023-08-14,PPS3
+Play! Pokémon Prize Pack Series Four,2024-02-14,PPS4
+Play! Pokémon Prize Pack Series Five,2024-08-14,PPS5
+Play! Pokémon Prize Pack Series Six,2025-02-14,PPS6
+Play! Pokémon Prize Pack Series Seven,2025-08-14,PPS7
+Play! Pokémon Prize Pack Series Eight,2026-01-01,PPS8
+Southern Islands,2001-07-31,SI
+Best of Game,,—
+Poké Card Creator Pack,,CC
+Pokémon Rumble,2009-12-02,RM
+Pokémon Futsal,2020-09-11,FUT20
+Pokémon Trading Card Game Classic,2023-11-17,CL
